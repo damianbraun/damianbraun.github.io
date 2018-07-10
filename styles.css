@@ -1,0 +1,51 @@
+body {
+  background-image: url("foka.jpg");
+  background-repeat: no-repeat;
+
+  font-family: sans-serif;
+  margin: 0;
+}
+
+input {
+  height: 100%;
+  width: 100%;
+  border: 0;
+  font-size: 30px;
+}
+
+.grid-item.header { grid-area: header; }
+.grid-item.droga { grid-area: droga; }
+.grid-item.km { grid-area: km; }
+.grid-item.woj { grid-area: woj; }
+.grid-item.pow { grid-area: pow; }
+.grid-item.gm { grid-area: gm; }
+.grid-item.mjs { grid-area: mjs; }
+.grid-item.footer { grid-area: footer; }
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    'header header header header'
+    'droga droga km km'
+    'woj pow gm mjs'
+    'footer footer footer footer';
+  grid-gap: 5px;
+  background-color: #2196F3;
+  padding: 5px;
+  margin: 0;
+  width: 790px;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 15px 0;
+}
+
+.grid-item.droga,.km {padding: 0;}
+
+em.podpis {
+  font-size: 10px;
+  font-style: normal;
+  color: grey;
+}
