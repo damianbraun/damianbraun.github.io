@@ -10,7 +10,7 @@
 		<div class="grid-item header">Drogi woj. pomorskiego CPR Gdańsk</div>
 		<div class="grid-item droga"><input placeholder="droga" v-model="droga" autofocus></div>
 		<div class="grid-item km"><input placeholder="km" v-model="km"></div>
-		<div class="grid-item woj">{{ woj }} <br><em class="podpis">województwo</em> </div>
+		<div class="grid-item woj" v-bind:class="{ warn: wojWarn }">{{ woj }} <br><em class="podpis">województwo</em> </div>
 		<div class="grid-item pow">{{ pow }} <br><em class="podpis">powiat</em> </div>
 		<div class="grid-item gm">{{ gm }} <br><em class="podpis">gmina</em> </div>
 		<div class="grid-item mjs">{{ mjs }} <br><em class="podpis">miejscowość</em> </div>
@@ -23,8 +23,9 @@
 	<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 	<script src="dane.js"></script>
 	<script type="text/javascript">
-		var current;
+		var current = false;
 		var empty = "N/D";
+		var array = ['pomorskie', false];
 
 		function find(query) {
 			for (var i = 0; i < dane.length; i++) {
@@ -39,7 +40,8 @@
 			el: '#app',
 			data: {
 				droga: '',
-				km: ''
+				km: '',
+				wojWarn: false
 			},
 			computed: {
 				woj: function () {

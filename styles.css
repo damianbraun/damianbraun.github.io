@@ -6,8 +6,6 @@ body {
   margin: 0;
 }
 
-
-
 .grid-item.header { grid-area: header; }
 .grid-item.droga { grid-area: droga; }
 .grid-item.km { grid-area: km; }
@@ -24,7 +22,7 @@ body {
     'woj pow gm mjs'
     'footer footer footer footer';
   grid-gap: 5px;
-  background-color: #2196F3;
+  background-color: #ba8a88;
   padding: 5px;
   margin: 0;
   width: 790px;
@@ -53,6 +51,16 @@ body {
   padding: 15px 0;
 }
 
+.warn {
+  background-color: #d17f77;
+  color: #fff;
+}
+
+.ok {
+  background-color: #d17f77;
+  color: #fff;
+}
+
 .grid-item.droga,.km {padding: 0;}
 
 input {
@@ -64,6 +72,5 @@ input {
 
 em.podpis {
   font-size: 10px;
-  font-style: normal;
-  color: grey;
+  font-style: oblique;
 }
