@@ -1,11 +1,8 @@
-
-
 <html>
 <head>
-<meta charset="UTF-8">
+	<meta charset="UTF-8">
 	<title>DROGI</title>
 	<link rel="stylesheet" type="text/css" href="styles.css">
-
 </head>
 
 <body>
@@ -20,48 +17,69 @@
 		<div class="grid-item footer">
 			Informacja drogowa GDDKiA 19111
 			<br><em class="podpis">by Filip Rytelewski 2018</em>
+		</div>
 	</div>
-</div>
 
-<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-<script src="dane.js"></script>
-<script type="text/javascript">
-	var current;
+	<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+	<script src="dane.js"></script>
+	<script type="text/javascript">
+		var current;
+		var empty = "N/D";
 
-	function find(query) {
-		for (var i = 0; i < dane.length; i++) {
-			if (dane[i].id == query) { //.toUpperCase()
-				return dane[i];
+		function find(query) {
+			for (var i = 0; i < dane.length; i++) {
+				if (dane[i].id == query) {
+					return dane[i];
+				}
 			}
+			return false;
 		}
-		return false;
-	}
 
-	var app = new Vue({
-		el: '#app',
-		data: {
-			droga: '',
-			km: ''
-		},
-		computed: {
-			woj: function () {
-				current = find((this.droga.toString()+this.km).toUpperCase());
-	      return current.woj;
-	    },
-			pow: function () {
-				current = find((this.droga.toString()+this.km).toUpperCase());
-				return current.pow;
+		var app = new Vue({
+			el: '#app',
+			data: {
+				droga: '',
+				km: ''
 			},
-			gm: function () {
-				current = find((this.droga.toString()+this.km).toUpperCase());
-				return current.gm;
-			},
-			mjs: function () {
-				current = find((this.droga.toString()+this.km).toUpperCase());
-				return current.mjs;
-			}
-  }
-});
-</script>
+			computed: {
+				woj: function () {
+					current = find((this.droga.toString()+this.km).toUpperCase());
+		      if (current) {
+		      	return current.woj;
+		      }
+					else {
+						return empty;
+					}
+		    },
+				pow: function () {
+					current = find((this.droga.toString()+this.km).toUpperCase());
+					if (current) {
+						return current.pow;
+		      }
+					else {
+						return empty;
+					}
+				},
+				gm: function () {
+					current = find((this.droga.toString()+this.km).toUpperCase());
+					if (current) {
+						return current.gm;
+		      }
+					else {
+						return empty;
+					}
+				},
+				mjs: function () {
+					current = find((this.droga.toString()+this.km).toUpperCase());
+					if (current) {
+						return current.mjs;
+		      }
+					else {
+						return empty;
+					}
+				}
+	  	}
+		});
+	</script>
 </body>
 </html>
