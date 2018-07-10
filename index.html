@@ -26,7 +26,7 @@
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script src="dane.js"></script>
 <script type="text/javascript">
-	var current = find("A118");
+	var current;
 
 	function find(query) {
 		for (var i = 0; i < dane.length; i++) {
@@ -37,10 +37,6 @@
 		return false;
 	}
 
-	function test() {
-		console.log("test");
-	}
-
 	var app = new Vue({
 		el: '#app',
 		data: {
@@ -49,19 +45,19 @@
 		},
 		computed: {
 			woj: function () {
-				current = find(this.droga+this.km);
+				current = find((this.droga.toString()+this.km).toUpperCase());
 	      return current.woj;
 	    },
 			pow: function () {
-				current = find(this.droga+this.km);
+				current = find((this.droga.toString()+this.km).toUpperCase());
 				return current.pow;
 			},
 			gm: function () {
-				current = find(this.droga+this.km);
+				current = find((this.droga.toString()+this.km).toUpperCase());
 				return current.gm;
 			},
 			mjs: function () {
-				current = find(this.droga+this.km);
+				current = find((this.droga.toString()+this.km).toUpperCase());
 				return current.mjs;
 			}
   }
