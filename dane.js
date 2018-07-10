@@ -59,7 +59,7 @@
     "km": 6,
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
-    "gm": "Pszczóki",
+    "gm": "Pszczółki",
     "mjs": "Kleszczewko"
   },
   {
@@ -68,7 +68,7 @@
     "km": 7,
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
-    "gm": "Pszczóki",
+    "gm": "Pszczółki",
     "mjs": "Kleszczewko"
   },
   {
@@ -77,7 +77,7 @@
     "km": 8,
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
-    "gm": "Pszczóki",
+    "gm": "Pszczółki",
     "mjs": "Ulkowy"
   },
   {
@@ -86,7 +86,7 @@
     "km": 9,
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
-    "gm": "Pszczóki",
+    "gm": "Pszczółki",
     "mjs": "Ulkowy"
   },
   {
@@ -95,7 +95,7 @@
     "km": 10,
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
-    "gm": "Pszczóki",
+    "gm": "Pszczółki",
     "mjs": "Ulkowy"
   },
   {
@@ -104,7 +104,7 @@
     "km": 11,
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
-    "gm": "Pszczóki",
+    "gm": "Pszczółki",
     "mjs": "Żelisławki"
   },
   {
@@ -113,7 +113,7 @@
     "km": 12,
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
-    "gm": "Pszczóki",
+    "gm": "Pszczółki",
     "mjs": "Rębielcz"
   },
   {
@@ -122,7 +122,7 @@
     "km": 13,
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
-    "gm": "Pszczóki",
+    "gm": "Pszczółki",
     "mjs": "Rębielcz"
   },
   {
@@ -177,7 +177,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Tczew",
-    "mjs": "Ma��ewko"
+    "mjs": "Małżewko"
   },
   {
     "id": "A120",
@@ -186,7 +186,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Tczew",
-    "mjs": "Ma��ewko"
+    "mjs": "Małżewko"
   },
   {
     "id": "A121",
@@ -195,7 +195,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Tczew",
-    "mjs": "Ma��ewko"
+    "mjs": "Małżewko"
   },
   {
     "id": "A122",
@@ -204,7 +204,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Tczew",
-    "mjs": "Swaro�yn"
+    "mjs": "Swarożyn"
   },
   {
     "id": "A123",
@@ -213,7 +213,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Tczew",
-    "mjs": "Swaro�yn"
+    "mjs": "Swarożyn"
   },
   {
     "id": "A124",
@@ -222,7 +222,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Tczew",
-    "mjs": "Swaro�yn"
+    "mjs": "Swarożyn"
   },
   {
     "id": "A125",
@@ -231,7 +231,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Tczew",
-    "mjs": "Swaro�yn"
+    "mjs": "Swarożyn"
   },
   {
     "id": "A126",
@@ -240,7 +240,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Tczew",
-    "mjs": "Swaro�yn"
+    "mjs": "Swarożyn"
   },
   {
     "id": "A127",
@@ -249,7 +249,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Tczew",
-    "mjs": "Swaro�yn"
+    "mjs": "Swarożyn"
   },
   {
     "id": "A128",
@@ -258,7 +258,7 @@
     "woj": "pomorskie",
     "pow": "Starogard Gdański",
     "gm": "Starogard Gdański",
-    "mjs": "Brze�no Wielkie"
+    "mjs": "Brzeźno Wielkie"
   },
   {
     "id": "A129",
@@ -267,7 +267,7 @@
     "woj": "pomorskie",
     "pow": "Starogard Gdański",
     "gm": "Starogard Gdański",
-    "mjs": "Brze�no Wielkie"
+    "mjs": "Brzeźno Wielkie"
   },
   {
     "id": "A130",
@@ -276,7 +276,7 @@
     "woj": "pomorskie",
     "pow": "Starogard Gdański",
     "gm": "Starogard Gdański",
-    "mjs": "Brze�no Wielkie"
+    "mjs": "Brzeźno Wielkie"
   },
   {
     "id": "A131",
@@ -285,7 +285,7 @@
     "woj": "pomorskie",
     "pow": "Starogard Gdański",
     "gm": "Starogard Gdański",
-    "mjs": "Brze�no Wielkie"
+    "mjs": "Brzeźno Wielkie"
   },
   {
     "id": "A132",
@@ -294,7 +294,7 @@
     "woj": "pomorskie",
     "pow": "Starogard Gdański",
     "gm": "Starogard Gdański",
-    "mjs": "Brze�no Wielkie"
+    "mjs": "Brzeźno Wielkie"
   },
   {
     "id": "A133",
@@ -303,7 +303,7 @@
     "woj": "pomorskie",
     "pow": "Starogard Gdański",
     "gm": "Starogard Gdański",
-    "mjs": "Klon�wka"
+    "mjs": "Klonówka"
   },
   {
     "id": "A134",
@@ -312,7 +312,7 @@
     "woj": "pomorskie",
     "pow": "Starogard Gdański",
     "gm": "Starogard Gdański",
-    "mjs": "Klon�wka"
+    "mjs": "Klonówka"
   },
   {
     "id": "A135",
@@ -447,7 +447,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Morzesczyn",
-    "mjs": "Kierwa�d"
+    "mjs": "Kierwałd"
   },
   {
     "id": "A150",
@@ -456,7 +456,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Morzesczyn",
-    "mjs": "Kierwa�d"
+    "mjs": "Kierwałd"
   },
   {
     "id": "A151",
@@ -465,7 +465,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Morzesczyn",
-    "mjs": "Kierwa�d"
+    "mjs": "Kierwałd"
   },
   {
     "id": "A152",
@@ -474,7 +474,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Morzesczyn",
-    "mjs": "Kierwa�d"
+    "mjs": "Kierwałd"
   },
   {
     "id": "A153",
@@ -482,7 +482,7 @@
     "km": 53,
     "woj": "pomorskie",
     "pow": "Starogard Gdański",
-    "gm": "Sk�rcz",
+    "gm": "Skórcz",
     "mjs": "Miryce"
   },
   {
@@ -491,7 +491,7 @@
     "km": 54,
     "woj": "pomorskie",
     "pow": "Starogard Gdański",
-    "gm": "Sk�rcz",
+    "gm": "Skórcz",
     "mjs": "Miryce"
   },
   {
@@ -500,7 +500,7 @@
     "km": 55,
     "woj": "pomorskie",
     "pow": "Starogard Gdański",
-    "gm": "Sk�rcz",
+    "gm": "Skórcz",
     "mjs": "Miryce"
   },
   {
@@ -509,7 +509,7 @@
     "km": 56,
     "woj": "pomorskie",
     "pow": "Starogard Gdański",
-    "gm": "Sm�towo Graniczne",
+    "gm": "Smętowo Graniczne",
     "mjs": "Kornatka"
   },
   {
@@ -518,7 +518,7 @@
     "km": 57,
     "woj": "pomorskie",
     "pow": "Starogard Gdański",
-    "gm": "Sm�towo Graniczne",
+    "gm": "Smętowo Graniczne",
     "mjs": "Kopytkowo"
   },
   {
@@ -527,7 +527,7 @@
     "km": 58,
     "woj": "pomorskie",
     "pow": "Starogard Gdański",
-    "gm": "Sm�towo Graniczne",
+    "gm": "Smętowo Graniczne",
     "mjs": "Kopytkowo"
   },
   {
@@ -536,7 +536,7 @@
     "km": 59,
     "woj": "pomorskie",
     "pow": "Starogard Gdański",
-    "gm": "Sm�towo Graniczne",
+    "gm": "Smętowo Graniczne",
     "mjs": "Kopytkowo"
   },
   {
@@ -545,7 +545,7 @@
     "km": 60,
     "woj": "pomorskie",
     "pow": "Starogard Gdański",
-    "gm": "Sm�towo Graniczne",
+    "gm": "Smętowo Graniczne",
     "mjs": "Kopytkowo"
   },
   {
@@ -554,7 +554,7 @@
     "km": 61,
     "woj": "pomorskie",
     "pow": "Starogard Gdański",
-    "gm": "Sm�towo Graniczne",
+    "gm": "Smętowo Graniczne",
     "mjs": "Kopytkowo"
   },
   {
@@ -563,7 +563,7 @@
     "km": 62,
     "woj": "pomorskie",
     "pow": "Starogard Gdański",
-    "gm": "Sm�towo Graniczne",
+    "gm": "Smętowo Graniczne",
     "mjs": "Kopytkowo"
   },
   {
@@ -572,7 +572,7 @@
     "km": 63,
     "woj": "pomorskie",
     "pow": "Starogard Gdański",
-    "gm": "Sm�towo Graniczne",
+    "gm": "Smętowo Graniczne",
     "mjs": "Kopytkowo"
   },
   {
@@ -581,7 +581,7 @@
     "km": 64,
     "woj": "pomorskie",
     "pow": "Starogard Gdański",
-    "gm": "Sm�towo Graniczne",
+    "gm": "Smętowo Graniczne",
     "mjs": "Kamionka"
   },
   {
@@ -590,7 +590,7 @@
     "km": 65,
     "woj": "pomorskie",
     "pow": "Starogard Gdański",
-    "gm": "Sm�towo Graniczne",
+    "gm": "Smętowo Graniczne",
     "mjs": "Kamionka"
   },
   {
@@ -599,7 +599,7 @@
     "km": 66,
     "woj": "pomorskie",
     "pow": "Starogard Gdański",
-    "gm": "Sm�towo Graniczne",
+    "gm": "Smętowo Graniczne",
     "mjs": "Kamionka"
   },
   {
@@ -607,7 +607,7 @@
     "droga": "A1",
     "km": 67,
     "woj": "kujawsko-pomorkie",
-    "pow": "�wiecie",
+    "pow": "Świecie",
     "gm": "Nowe",
     "mjs": "Gajewo"
   },
@@ -967,7 +967,7 @@
     "droga": "S6",
     "km": 0,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Koblnica",
     "mjs": "Reblinko"
   },
@@ -976,7 +976,7 @@
     "droga": "S6",
     "km": 1,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Koblnica",
     "mjs": "Reblinko"
   },
@@ -985,7 +985,7 @@
     "droga": "S6",
     "km": 2,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Koblnica",
     "mjs": "Widzino"
   },
@@ -994,7 +994,7 @@
     "droga": "S6",
     "km": 3,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Koblnica",
     "mjs": "Widzino"
   },
@@ -1003,98 +1003,98 @@
     "droga": "S6",
     "km": 4,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Koblnica",
-    "mjs": "�osino"
+    "mjs": "Łosino"
   },
   {
     "id": "S65",
     "droga": "S6",
     "km": 5,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Koblnica",
-    "mjs": "�osino"
+    "mjs": "Łosino"
   },
   {
     "id": "S66",
     "droga": "S6",
     "km": 6,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Koblnica",
-    "mjs": "�osino"
+    "mjs": "Łosino"
   },
   {
     "id": "S67",
     "droga": "S6",
     "km": 7,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "P�aszewko"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Płaszewko"
   },
   {
     "id": "S68",
     "droga": "S6",
     "km": 8,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "P�aszewko"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Płaszewko"
   },
   {
     "id": "S69",
     "droga": "S6",
     "km": 9,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "P�aszewko"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Płaszewko"
   },
   {
     "id": "S610",
     "droga": "S6",
     "km": 10,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "P�aszewko"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Płaszewko"
   },
   {
     "id": "S611",
     "droga": "S6",
     "km": 11,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "G�obino"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Głobino"
   },
   {
     "id": "S612",
     "droga": "S6",
     "km": 12,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "G�obino"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Głobino"
   },
   {
     "id": "S613",
     "droga": "S6",
     "km": 13,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "G�obino"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Głobino"
   },
   {
     "id": "S614",
     "droga": "S6",
     "km": 14,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
+    "pow": "Słupsk",
+    "gm": "Słupsk",
     "mjs": "Wieszyno"
   },
   {
@@ -1102,8 +1102,8 @@
     "droga": "S6",
     "km": 15,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
+    "pow": "Słupsk",
+    "gm": "Słupsk",
     "mjs": "Redzikowo"
   },
   {
@@ -1111,8 +1111,8 @@
     "droga": "S6",
     "km": 16,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
+    "pow": "Słupsk",
+    "gm": "Słupsk",
     "mjs": "Redzikowo"
   },
   {
@@ -1120,8 +1120,8 @@
     "droga": 6,
     "km": 194,
     "woj": "zachodniopomorkie",
-    "pow": "S�awno",
-    "gm": "S�awno",
+    "pow": "Sławno",
+    "gm": "Sławno",
     "mjs": "Noskowo"
   },
   {
@@ -1129,7 +1129,7 @@
     "droga": 6,
     "km": 195,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Koblnica",
     "mjs": "Sycewice"
   },
@@ -1138,7 +1138,7 @@
     "droga": 6,
     "km": 196,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Koblnica",
     "mjs": "Sycewice"
   },
@@ -1147,7 +1147,7 @@
     "droga": 6,
     "km": 197,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Koblnica",
     "mjs": "Sycewice"
   },
@@ -1156,7 +1156,7 @@
     "droga": 6,
     "km": 198,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Koblnica",
     "mjs": "Sycewice"
   },
@@ -1165,7 +1165,7 @@
     "droga": 6,
     "km": 199,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Koblnica",
     "mjs": "Sycewice"
   },
@@ -1174,7 +1174,7 @@
     "droga": 6,
     "km": 200,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Koblnica",
     "mjs": "Reblino"
   },
@@ -1183,7 +1183,7 @@
     "droga": 6,
     "km": 201,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Koblnica",
     "mjs": "Reblinko"
   },
@@ -1192,7 +1192,7 @@
     "droga": 6,
     "km": 202,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Koblnica",
     "mjs": "Reblinko"
   },
@@ -1201,7 +1201,7 @@
     "droga": 6,
     "km": 203,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Koblnica",
     "mjs": "Widzino"
   },
@@ -1210,7 +1210,7 @@
     "droga": 6,
     "km": 204,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Koblnica",
     "mjs": "Widzino"
   },
@@ -1219,98 +1219,98 @@
     "droga": 6,
     "km": 205,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Koblnica",
-    "mjs": "�osino"
+    "mjs": "Łosino"
   },
   {
     "id": 6206,
     "droga": 6,
     "km": 206,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Koblnica",
-    "mjs": "�osino"
+    "mjs": "Łosino"
   },
   {
     "id": 6207,
     "droga": 6,
     "km": 207,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Koblnica",
-    "mjs": "�osino"
+    "mjs": "Łosino"
   },
   {
     "id": 6208,
     "droga": 6,
     "km": 208,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "P�aszewko"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Płaszewko"
   },
   {
     "id": 6209,
     "droga": 6,
     "km": 209,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "P�aszewko"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Płaszewko"
   },
   {
     "id": 6210,
     "droga": 6,
     "km": 210,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "P�aszewko"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Płaszewko"
   },
   {
     "id": 6211,
     "droga": 6,
     "km": 211,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "P�aszewko"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Płaszewko"
   },
   {
     "id": 6212,
     "droga": 6,
     "km": 212,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "G�obino"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Głobino"
   },
   {
     "id": 6213,
     "droga": 6,
     "km": 213,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "G�obino"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Głobino"
   },
   {
     "id": 6214,
     "droga": 6,
     "km": 214,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "G�obino"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Głobino"
   },
   {
     "id": 6215,
     "droga": 6,
     "km": 215,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
+    "pow": "Słupsk",
+    "gm": "Słupsk",
     "mjs": "Wieszyno"
   },
   {
@@ -1318,8 +1318,8 @@
     "droga": 6,
     "km": 216,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
+    "pow": "Słupsk",
+    "gm": "Słupsk",
     "mjs": "Redzikowo"
   },
   {
@@ -1327,8 +1327,8 @@
     "droga": 6,
     "km": 217,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
+    "pow": "Słupsk",
+    "gm": "Słupsk",
     "mjs": "Redzikowo"
   },
   {
@@ -1336,34 +1336,34 @@
     "droga": 6,
     "km": 218,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Damnica",
-    "mjs": "Wielog�owy"
+    "mjs": "Wielogłowy"
   },
   {
     "id": 6219,
     "droga": 6,
     "km": 219,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Damnica",
-    "mjs": "S�borze"
+    "mjs": "Sąborze"
   },
   {
     "id": 6220,
     "droga": 6,
     "km": 220,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Damnica",
-    "mjs": "S�borze"
+    "mjs": "Sąborze"
   },
   {
     "id": 6221,
     "droga": 6,
     "km": 221,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Damnica",
     "mjs": "Mianowice"
   },
@@ -1372,7 +1372,7 @@
     "droga": 6,
     "km": 222,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Damnica",
     "mjs": "Mianowice"
   },
@@ -1381,7 +1381,7 @@
     "droga": 6,
     "km": 223,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Damnica",
     "mjs": "Mianowice"
   },
@@ -1390,7 +1390,7 @@
     "droga": 6,
     "km": 224,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Damnica",
     "mjs": "Domaradz"
   },
@@ -1399,7 +1399,7 @@
     "droga": 6,
     "km": 225,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Damnica",
     "mjs": "Domaradz"
   },
@@ -1408,7 +1408,7 @@
     "droga": 6,
     "km": 226,
     "woj": "pomorskie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Damnica",
     "mjs": "Domaradz"
   },
@@ -1417,143 +1417,143 @@
     "droga": 6,
     "km": 227,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "Pot�gowo",
-    "mjs": "Nowa D�browa"
+    "pow": "Słupsk",
+    "gm": "Potęgowo",
+    "mjs": "Nowa Dąbrowa"
   },
   {
     "id": 6228,
     "droga": 6,
     "km": 228,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "Pot�gowo",
-    "mjs": "Nowa D�browa"
+    "pow": "Słupsk",
+    "gm": "Potęgowo",
+    "mjs": "Nowa Dąbrowa"
   },
   {
     "id": 6229,
     "droga": 6,
     "km": 229,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "Pot�gowo",
-    "mjs": "Nowa D�browa"
+    "pow": "Słupsk",
+    "gm": "Potęgowo",
+    "mjs": "Nowa Dąbrowa"
   },
   {
     "id": 6230,
     "droga": 6,
     "km": 230,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "Pot�gowo",
-    "mjs": "Nowa D�browa"
+    "pow": "Słupsk",
+    "gm": "Potęgowo",
+    "mjs": "Nowa Dąbrowa"
   },
   {
     "id": 6231,
     "droga": 6,
     "km": 231,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "Pot�gowo",
-    "mjs": "R�bowo"
+    "pow": "Słupsk",
+    "gm": "Potęgowo",
+    "mjs": "Rębowo"
   },
   {
     "id": 6232,
     "droga": 6,
     "km": 232,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "Pot�gowo",
-    "mjs": "R�bowo"
+    "pow": "Słupsk",
+    "gm": "Potęgowo",
+    "mjs": "Rębowo"
   },
   {
     "id": 6233,
     "droga": 6,
     "km": 233,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "Pot�gowo",
-    "mjs": "R�bowo"
+    "pow": "Słupsk",
+    "gm": "Potęgowo",
+    "mjs": "Rębowo"
   },
   {
     "id": 6234,
     "droga": 6,
     "km": 234,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "Pot�gowo",
-    "mjs": "�ochowo"
+    "pow": "Słupsk",
+    "gm": "Potęgowo",
+    "mjs": "Żochowo"
   },
   {
     "id": 6235,
     "droga": 6,
     "km": 235,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "Pot�gowo",
-    "mjs": "�ochowo"
+    "pow": "Słupsk",
+    "gm": "Potęgowo",
+    "mjs": "Żochowo"
   },
   {
     "id": 6236,
     "droga": 6,
     "km": 236,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "Pot�gowo",
-    "mjs": "�ochowo"
+    "pow": "Słupsk",
+    "gm": "Potęgowo",
+    "mjs": "Żochowo"
   },
   {
     "id": 6237,
     "droga": 6,
     "km": 237,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "Pot�gowo",
-    "mjs": "�ochowo"
+    "pow": "Słupsk",
+    "gm": "Potęgowo",
+    "mjs": "Żochowo"
   },
   {
     "id": 6238,
     "droga": 6,
     "km": 238,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "Pot�gowo",
-    "mjs": "Dar�yno"
+    "pow": "Słupsk",
+    "gm": "Potęgowo",
+    "mjs": "Darżyno"
   },
   {
     "id": 6239,
     "droga": 6,
     "km": 239,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "Pot�gowo",
-    "mjs": "Dar�yno"
+    "pow": "Słupsk",
+    "gm": "Potęgowo",
+    "mjs": "Darżyno"
   },
   {
     "id": 6240,
     "droga": 6,
     "km": 240,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "Pot�gowo",
-    "mjs": "Pot�gowo"
+    "pow": "Słupsk",
+    "gm": "Potęgowo",
+    "mjs": "Potęgowo"
   },
   {
     "id": 6241,
     "droga": 6,
     "km": 241,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "Pot�gowo",
-    "mjs": "Pot�gowo"
+    "pow": "Słupsk",
+    "gm": "Potęgowo",
+    "mjs": "Potęgowo"
   },
   {
     "id": 6242,
     "droga": 6,
     "km": 242,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "Pot�gowo",
+    "pow": "Słupsk",
+    "gm": "Potęgowo",
     "mjs": "Chlewnica"
   },
   {
@@ -1561,8 +1561,8 @@
     "droga": 6,
     "km": 243,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "Pot�gowo",
+    "pow": "Słupsk",
+    "gm": "Potęgowo",
     "mjs": "Chlewnica"
   },
   {
@@ -1570,8 +1570,8 @@
     "droga": 6,
     "km": 244,
     "woj": "pomorskie",
-    "pow": "S�upsk",
-    "gm": "Pot�gowo",
+    "pow": "Słupsk",
+    "gm": "Potęgowo",
     "mjs": "Runowo"
   },
   {
@@ -1579,26 +1579,26 @@
     "droga": 6,
     "km": 245,
     "woj": "pomorskie",
-    "pow": "L�bork",
-    "gm": "Nowa Wie� L�borska",
-    "mjs": "Dar�ewo"
+    "pow": "Lębork",
+    "gm": "Nowa Wieś Lęborska",
+    "mjs": "Darżewo"
   },
   {
     "id": 6246,
     "droga": 6,
     "km": 246,
     "woj": "pomorskie",
-    "pow": "L�bork",
-    "gm": "Nowa Wie� L�borska",
-    "mjs": "Dar�ewo"
+    "pow": "Lębork",
+    "gm": "Nowa Wieś Lęborska",
+    "mjs": "Darżewo"
   },
   {
     "id": 6247,
     "droga": 6,
     "km": 247,
     "woj": "pomorskie",
-    "pow": "L�bork",
-    "gm": "Nowa Wie� L�borska",
+    "pow": "Lębork",
+    "gm": "Nowa Wieś Lęborska",
     "mjs": "Pogorzelice Kolonia"
   },
   {
@@ -1606,8 +1606,8 @@
     "droga": 6,
     "km": 248,
     "woj": "pomorskie",
-    "pow": "L�bork",
-    "gm": "Nowa Wie� L�borska",
+    "pow": "Lębork",
+    "gm": "Nowa Wieś Lęborska",
     "mjs": "Pogorzelice Kolonia"
   },
   {
@@ -1615,8 +1615,8 @@
     "droga": 6,
     "km": 249,
     "woj": "pomorskie",
-    "pow": "L�bork",
-    "gm": "Nowa Wie� L�borska",
+    "pow": "Lębork",
+    "gm": "Nowa Wieś Lęborska",
     "mjs": "Pogorzelice"
   },
   {
@@ -1624,8 +1624,8 @@
     "droga": 6,
     "km": 250,
     "woj": "pomorskie",
-    "pow": "L�bork",
-    "gm": "Nowa Wie� L�borska",
+    "pow": "Lębork",
+    "gm": "Nowa Wieś Lęborska",
     "mjs": "Pogorzelice"
   },
   {
@@ -1633,8 +1633,8 @@
     "droga": 6,
     "km": 251,
     "woj": "pomorskie",
-    "pow": "L�bork",
-    "gm": "Nowa Wie� L�borska",
+    "pow": "Lębork",
+    "gm": "Nowa Wieś Lęborska",
     "mjs": "Pogorzelice"
   },
   {
@@ -1642,8 +1642,8 @@
     "droga": 6,
     "km": 252,
     "woj": "pomorskie",
-    "pow": "L�bork",
-    "gm": "Nowa Wie� L�borska",
+    "pow": "Lębork",
+    "gm": "Nowa Wieś Lęborska",
     "mjs": "Pogorzelice"
   },
   {
@@ -1651,89 +1651,89 @@
     "droga": 6,
     "km": 253,
     "woj": "pomorskie",
-    "pow": "L�bork",
-    "gm": "Nowa Wie� L�borska",
-    "mjs": "Le�nice"
+    "pow": "Lębork",
+    "gm": "Nowa Wieś Lęborska",
+    "mjs": "Leśnice"
   },
   {
     "id": 6254,
     "droga": 6,
     "km": 254,
     "woj": "pomorskie",
-    "pow": "L�bork",
-    "gm": "Nowa Wie� L�borska",
-    "mjs": "Le�nice"
+    "pow": "Lębork",
+    "gm": "Nowa Wieś Lęborska",
+    "mjs": "Leśnice"
   },
   {
     "id": 6255,
     "droga": 6,
     "km": 255,
     "woj": "pomorskie",
-    "pow": "L�bork",
-    "gm": "Nowa Wie� L�borska",
-    "mjs": "Le�nice"
+    "pow": "Lębork",
+    "gm": "Nowa Wieś Lęborska",
+    "mjs": "Leśnice"
   },
   {
     "id": 6256,
     "droga": 6,
     "km": 256,
     "woj": "pomorskie",
-    "pow": "L�bork",
-    "gm": "L�bork",
-    "mjs": "L�bork"
+    "pow": "Lębork",
+    "gm": "Lębork",
+    "mjs": "Lębork"
   },
   {
     "id": 6257,
     "droga": 6,
     "km": 257,
     "woj": "pomorskie",
-    "pow": "L�bork",
-    "gm": "L�bork",
-    "mjs": "L�bork"
+    "pow": "Lębork",
+    "gm": "Lębork",
+    "mjs": "Lębork"
   },
   {
     "id": 6258,
     "droga": 6,
     "km": 258,
     "woj": "pomorskie",
-    "pow": "L�bork",
-    "gm": "L�bork",
-    "mjs": "L�bork"
+    "pow": "Lębork",
+    "gm": "Lębork",
+    "mjs": "Lębork"
   },
   {
     "id": 6259,
     "droga": 6,
     "km": 259,
     "woj": "pomorskie",
-    "pow": "L�bork",
-    "gm": "L�bork",
-    "mjs": "L�bork"
+    "pow": "Lębork",
+    "gm": "Lębork",
+    "mjs": "Lębork"
   },
   {
     "id": 6260,
     "droga": 6,
     "km": 260,
     "woj": "pomorskie",
-    "pow": "L�bork",
-    "gm": "L�bork",
-    "mjs": "L�bork"
+    "pow": "Lębork",
+    "gm": "Lębork",
+    "mjs": "Lębork"
   },
   {
     "id": 6261,
     "droga": 6,
     "km": 261,
     "woj": "pomorskie",
-    "pow": "L�bork",
-    "gm": "L�bork",
-    "mjs": "L�bork"
+    "pow": "Lębork",
+    "gm": "Lębork",
+    "mjs": "Lębork"
   },
   {
     "id": 6262,
     "droga": 6,
     "km": 262,
     "woj": "pomorskie",
-    "pow": "L�bork",
-    "gm": "Nowa Wie� L�borska",
+    "pow": "Lębork",
+    "gm": "Nowa Wieś Lęborska",
     "mjs": "Mosty"
   },
   {
@@ -1741,36 +1741,36 @@
     "droga": 6,
     "km": 263,
     "woj": "pomorskie",
-    "pow": "L�bork",
-    "gm": "Nowa Wie� L�borska",
-    "mjs": "Pogorza�e"
+    "pow": "Lębork",
+    "gm": "Nowa Wieś Lęborska",
+    "mjs": "Pogorzałe"
   },
   {
     "id": 6264,
     "droga": 6,
     "km": 264,
     "woj": "pomorskie",
-    "pow": "L�bork",
-    "gm": "Nowa Wie� L�borska",
-    "mjs": "Pogorza�e"
+    "pow": "Lębork",
+    "gm": "Nowa Wieś Lęborska",
+    "mjs": "Pogorzałe"
   },
   {
     "id": 6265,
     "droga": 6,
     "km": 265,
     "woj": "pomorskie",
-    "pow": "L�bork",
-    "gm": "Nowa Wie� L�borska",
-    "mjs": "Pogorza�e"
+    "pow": "Lębork",
+    "gm": "Nowa Wieś Lęborska",
+    "mjs": "Pogorzałe"
   },
   {
     "id": 6266,
     "droga": 6,
     "km": 266,
     "woj": "pomorskie",
-    "pow": "L�bork",
-    "gm": "Nowa Wie� L�borska",
-    "mjs": "Pogorza�e"
+    "pow": "Lębork",
+    "gm": "Nowa Wieś Lęborska",
+    "mjs": "Pogorzałe"
   },
   {
     "id": 6267,
@@ -1778,8 +1778,8 @@
     "km": 267,
     "woj": "pomorskie",
     "pow": "Wejherowo",
-    "gm": "��czyce",
-    "mjs": "God�two"
+    "gm": "Łęczyce",
+    "mjs": "Godętwo"
   },
   {
     "id": 6268,
@@ -1787,8 +1787,8 @@
     "km": 268,
     "woj": "pomorskie",
     "pow": "Wejherowo",
-    "gm": "��czyce",
-    "mjs": "God�two"
+    "gm": "Łęczyce",
+    "mjs": "Godętwo"
   },
   {
     "id": 6269,
@@ -1796,8 +1796,8 @@
     "km": 269,
     "woj": "pomorskie",
     "pow": "Wejherowo",
-    "gm": "��czyce",
-    "mjs": "God�two"
+    "gm": "Łęczyce",
+    "mjs": "Godętwo"
   },
   {
     "id": 6270,
@@ -1805,8 +1805,8 @@
     "km": 270,
     "woj": "pomorskie",
     "pow": "Wejherowo",
-    "gm": "��czyce",
-    "mjs": "God�two"
+    "gm": "Łęczyce",
+    "mjs": "Godętwo"
   },
   {
     "id": 6271,
@@ -1814,7 +1814,7 @@
     "km": 271,
     "woj": "pomorskie",
     "pow": "Wejherowo",
-    "gm": "��czyce",
+    "gm": "Łęczyce",
     "mjs": "Wielistowo"
   },
   {
@@ -1823,7 +1823,7 @@
     "km": 272,
     "woj": "pomorskie",
     "pow": "Wejherowo",
-    "gm": "��czyce",
+    "gm": "Łęczyce",
     "mjs": "Wielistowo"
   },
   {
@@ -1832,7 +1832,7 @@
     "km": 273,
     "woj": "pomorskie",
     "pow": "Wejherowo",
-    "gm": "��czyce",
+    "gm": "Łęczyce",
     "mjs": "Wielistowo"
   },
   {
@@ -1841,7 +1841,7 @@
     "km": 274,
     "woj": "pomorskie",
     "pow": "Wejherowo",
-    "gm": "��czyce",
+    "gm": "Łęczyce",
     "mjs": "Wielistowo"
   },
   {
@@ -1850,8 +1850,8 @@
     "km": 275,
     "woj": "pomorskie",
     "pow": "Wejherowo",
-    "gm": "��czyce",
-    "mjs": "Bo�epole Ma�e"
+    "gm": "Łęczyce",
+    "mjs": "Bożepole Małe"
   },
   {
     "id": 6276,
@@ -1859,8 +1859,8 @@
     "km": 276,
     "woj": "pomorskie",
     "pow": "Wejherowo",
-    "gm": "��czyce",
-    "mjs": "Bo�epole Ma�e"
+    "gm": "Łęczyce",
+    "mjs": "Bożepole Małe"
   },
   {
     "id": 6277,
@@ -1868,8 +1868,8 @@
     "km": 277,
     "woj": "pomorskie",
     "pow": "Wejherowo",
-    "gm": "��czyce",
-    "mjs": "Bo�epole Ma�e"
+    "gm": "Łęczyce",
+    "mjs": "Bożepole Małe"
   },
   {
     "id": 6278,
@@ -1877,7 +1877,7 @@
     "km": 278,
     "woj": "pomorskie",
     "pow": "Wejherowo",
-    "gm": "��czyce",
+    "gm": "Łęczyce",
     "mjs": "Strzebielino"
   },
   {
@@ -1886,7 +1886,7 @@
     "km": 279,
     "woj": "pomorskie",
     "pow": "Wejherowo",
-    "gm": "��czyce",
+    "gm": "Łęczyce",
     "mjs": "Strzebielino"
   },
   {
@@ -1895,7 +1895,7 @@
     "km": 280,
     "woj": "pomorskie",
     "pow": "Wejherowo",
-    "gm": "��czyce",
+    "gm": "Łęczyce",
     "mjs": "Strzebielino"
   },
   {
@@ -1905,7 +1905,7 @@
     "woj": "pomorskie",
     "pow": "Wejherowo",
     "gm": "Luzino",
-    "mjs": "Nowe K�b�owo"
+    "mjs": "Nowe Kębłowo"
   },
   {
     "id": 6282,
@@ -1914,7 +1914,7 @@
     "woj": "pomorskie",
     "pow": "Wejherowo",
     "gm": "Luzino",
-    "mjs": "Nowe K�b�owo"
+    "mjs": "Nowe Kębłowo"
   },
   {
     "id": 6283,
@@ -1923,7 +1923,7 @@
     "woj": "pomorskie",
     "pow": "Wejherowo",
     "gm": "Luzino",
-    "mjs": "Nowe K�b�owo"
+    "mjs": "Nowe Kębłowo"
   },
   {
     "id": 6284,
@@ -1932,7 +1932,7 @@
     "woj": "pomorskie",
     "pow": "Wejherowo",
     "gm": "Luzino",
-    "mjs": "Nowe K�b�owo"
+    "mjs": "Nowe Kębłowo"
   },
   {
     "id": 6285,
@@ -1941,7 +1941,7 @@
     "woj": "pomorskie",
     "pow": "Wejherowo",
     "gm": "Luzino",
-    "mjs": "Nowe K�b�owo"
+    "mjs": "Nowe Kębłowo"
   },
   {
     "id": 6286,
@@ -1950,7 +1950,7 @@
     "woj": "pomorskie",
     "pow": "Wejherowo",
     "gm": "Luzino",
-    "mjs": "Nowe K�b�owo"
+    "mjs": "Nowe Kębłowo"
   },
   {
     "id": 6287,
@@ -1959,7 +1959,7 @@
     "woj": "pomorskie",
     "pow": "Wejherowo",
     "gm": "Wejherowo",
-    "mjs": "Go�cicino"
+    "mjs": "Gościcino"
   },
   {
     "id": 6288,
@@ -1968,7 +1968,7 @@
     "woj": "pomorskie",
     "pow": "Wejherowo",
     "gm": "Wejherowo",
-    "mjs": "Go�cicino"
+    "mjs": "Gościcino"
   },
   {
     "id": 6289,
@@ -1977,7 +1977,7 @@
     "woj": "pomorskie",
     "pow": "Wejherowo",
     "gm": "Wejherowo",
-    "mjs": "Go�cicino"
+    "mjs": "Gościcino"
   },
   {
     "id": 6290,
@@ -2562,7 +2562,7 @@
     "woj": "pomorskie",
     "pow": "Kartuzy",
     "gm": "Kartuzy",
-    "mjs": "Le�no"
+    "mjs": "Leźno"
   },
   {
     "id": 76,
@@ -2571,7 +2571,7 @@
     "woj": "pomorskie",
     "pow": "Kartuzy",
     "gm": "Kartuzy",
-    "mjs": "Le�no"
+    "mjs": "Leźno"
   },
   {
     "id": 77,
@@ -2580,7 +2580,7 @@
     "woj": "pomorskie",
     "pow": "Kartuzy",
     "gm": "Kartuzy",
-    "mjs": "Le�no"
+    "mjs": "Leźno"
   },
   {
     "id": 78,
@@ -2850,7 +2850,7 @@
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
     "gm": "Cedry Wielkie",
-    "mjs": "Cedry Ma�e"
+    "mjs": "Cedry Małe"
   },
   {
     "id": 738,
@@ -2859,7 +2859,7 @@
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
     "gm": "Cedry Wielkie",
-    "mjs": "Cedry Ma�e"
+    "mjs": "Cedry Małe"
   },
   {
     "id": 739,
@@ -2868,7 +2868,7 @@
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
     "gm": "Cedry Wielkie",
-    "mjs": "Cedry Ma�e"
+    "mjs": "Cedry Małe"
   },
   {
     "id": 740,
@@ -2877,7 +2877,7 @@
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
     "gm": "Cedry Wielkie",
-    "mjs": "Cedry Ma�e"
+    "mjs": "Cedry Małe"
   },
   {
     "id": 741,
@@ -2886,7 +2886,7 @@
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
     "gm": "Cedry Wielkie",
-    "mjs": "Cedry Ma�e"
+    "mjs": "Cedry Małe"
   },
   {
     "id": 742,
@@ -2895,7 +2895,7 @@
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
     "gm": "Cedry Wielkie",
-    "mjs": "Cedry Ma�e"
+    "mjs": "Cedry Małe"
   },
   {
     "id": 743,
@@ -2904,7 +2904,7 @@
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
     "gm": "Cedry Wielkie",
-    "mjs": "Cedry Ma�e"
+    "mjs": "Cedry Małe"
   },
   {
     "id": 744,
@@ -2913,7 +2913,7 @@
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
     "gm": "Cedry Wielkie",
-    "mjs": "Cedry Ma�e"
+    "mjs": "Cedry Małe"
   },
   {
     "id": 745,
@@ -2929,7 +2929,7 @@
     "droga": 7,
     "km": 46,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
+    "pow": "Now Drór Gdański",
     "gm": "Cedry Wielkie",
     "mjs": "Dworek"
   },
@@ -2938,7 +2938,7 @@
     "droga": 7,
     "km": 47,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
+    "pow": "Now Drór Gdański",
     "gm": "Cedry Wielkie",
     "mjs": "Dworek"
   },
@@ -2947,7 +2947,7 @@
     "droga": 7,
     "km": 48,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
+    "pow": "Now Drór Gdański",
     "gm": "Cedry Wielkie",
     "mjs": "Dworek"
   },
@@ -2956,7 +2956,7 @@
     "droga": 7,
     "km": 49,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
+    "pow": "Now Drór Gdański",
     "gm": "Cedry Wielkie",
     "mjs": "Dworek"
   },
@@ -2965,7 +2965,7 @@
     "droga": 7,
     "km": 50,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
+    "pow": "Now Drór Gdański",
     "gm": "Cedry Wielkie",
     "mjs": "Stare Babki"
   },
@@ -2974,7 +2974,7 @@
     "droga": 7,
     "km": 51,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
+    "pow": "Now Drór Gdański",
     "gm": "Cedry Wielkie",
     "mjs": "Stare Babki"
   },
@@ -2983,7 +2983,7 @@
     "droga": 7,
     "km": 52,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
+    "pow": "Now Drór Gdański",
     "gm": "Cedry Wielkie",
     "mjs": "Stare Babki"
   },
@@ -2992,7 +2992,7 @@
     "droga": 7,
     "km": 53,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
+    "pow": "Now Drór Gdański",
     "gm": "Cedry Wielkie",
     "mjs": "Stare Babki"
   },
@@ -3001,71 +3001,71 @@
     "droga": 7,
     "km": 54,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
-    "gm": "Now Dr�r Gdański",
-    "mjs": "Now Dr�r Gdański"
+    "pow": "Now Drór Gdański",
+    "gm": "Now Drór Gdański",
+    "mjs": "Now Drór Gdański"
   },
   {
     "id": 755,
     "droga": 7,
     "km": 55,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
-    "gm": "Now Dr�r Gdański",
-    "mjs": "Now Dr�r Gdański"
+    "pow": "Now Drór Gdański",
+    "gm": "Now Drór Gdański",
+    "mjs": "Now Drór Gdański"
   },
   {
     "id": 756,
     "droga": 7,
     "km": 56,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
-    "gm": "Now Dr�r Gdański",
-    "mjs": "Now Dr�r Gdański"
+    "pow": "Now Drór Gdański",
+    "gm": "Now Drór Gdański",
+    "mjs": "Now Drór Gdański"
   },
   {
     "id": 757,
     "droga": 7,
     "km": 57,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
-    "gm": "Now Dr�r Gdański",
-    "mjs": "Now Dr�r Gdański"
+    "pow": "Now Drór Gdański",
+    "gm": "Now Drór Gdański",
+    "mjs": "Now Drór Gdański"
   },
   {
     "id": 758,
     "droga": 7,
     "km": 58,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
-    "gm": "Now Dr�r Gdański",
-    "mjs": "Now Dr�r Gdański"
+    "pow": "Now Drór Gdański",
+    "gm": "Now Drór Gdański",
+    "mjs": "Now Drór Gdański"
   },
   {
     "id": 759,
     "droga": 7,
     "km": 59,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
-    "gm": "Now Dr�r Gdański",
-    "mjs": "Now Dr�r Gdański"
+    "pow": "Now Drór Gdański",
+    "gm": "Now Drór Gdański",
+    "mjs": "Now Drór Gdański"
   },
   {
     "id": 760,
     "droga": 7,
     "km": 60,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
-    "gm": "Now Dr�r Gdański",
-    "mjs": "Now Dr�r Gdański"
+    "pow": "Now Drór Gdański",
+    "gm": "Now Drór Gdański",
+    "mjs": "Now Drór Gdański"
   },
   {
     "id": 761,
     "droga": 7,
     "km": 61,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
-    "gm": "Now Dr�r Gdański",
+    "pow": "Now Drór Gdański",
+    "gm": "Now Drór Gdański",
     "mjs": "Kmiecin"
   },
   {
@@ -3073,8 +3073,8 @@
     "droga": 7,
     "km": 62,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
-    "gm": "Now Dr�r Gdański",
+    "pow": "Now Drór Gdański",
+    "gm": "Now Drór Gdański",
     "mjs": "Kmiecin"
   },
   {
@@ -3082,8 +3082,8 @@
     "droga": 7,
     "km": 63,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
-    "gm": "Now Dr�r Gdański",
+    "pow": "Now Drór Gdański",
+    "gm": "Now Drór Gdański",
     "mjs": "Kmiecin"
   },
   {
@@ -3091,8 +3091,8 @@
     "droga": 7,
     "km": 64,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
-    "gm": "Now Dr�r Gdański",
+    "pow": "Now Drór Gdański",
+    "gm": "Now Drór Gdański",
     "mjs": "Kmiecin"
   },
   {
@@ -3100,8 +3100,8 @@
     "droga": 7,
     "km": 65,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
-    "gm": "Now Dr�r Gdański",
+    "pow": "Now Drór Gdański",
+    "gm": "Now Drór Gdański",
     "mjs": "Jazowa"
   },
   {
@@ -3109,8 +3109,8 @@
     "droga": 7,
     "km": 66,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
-    "gm": "Now Dr�r Gdański",
+    "pow": "Now Drór Gdański",
+    "gm": "Now Drór Gdański",
     "mjs": "Jazowa"
   },
   {
@@ -3118,8 +3118,8 @@
     "droga": 7,
     "km": 67,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
-    "gm": "Now Dr�r Gdański",
+    "pow": "Now Drór Gdański",
+    "gm": "Now Drór Gdański",
     "mjs": "Jazowa"
   },
   {
@@ -3127,36 +3127,36 @@
     "droga": 7,
     "km": 68,
     "woj": "pomorskie",
-    "pow": "Now Dr�r Gdański",
-    "gm": "Now Dr�r Gdański",
+    "pow": "Now Drór Gdański",
+    "gm": "Now Drór Gdański",
     "mjs": "Jazowa"
   },
   {
     "id": 769,
     "droga": 7,
     "km": 69,
-    "woj": "warmi�sko-mazurskie",
-    "pow": "Elbl�g",
-    "gm": "Elbl�g",
-    "mjs": "Elbl�g"
+    "woj": "warmińsko-mazurskie",
+    "pow": "Elbląg",
+    "gm": "Elbląg",
+    "mjs": "Elbląg"
   },
   {
     "id": 770,
     "droga": 7,
     "km": 70,
-    "woj": "warmi�sko-mazurskie",
-    "pow": "Elbl�g",
-    "gm": "Elbl�g",
-    "mjs": "Elbl�g"
+    "woj": "warmińsko-mazurskie",
+    "pow": "Elbląg",
+    "gm": "Elbląg",
+    "mjs": "Elbląg"
   },
   {
     "id": 771,
     "droga": 7,
     "km": 71,
-    "woj": "warmi�sko-mazurskie",
-    "pow": "Elbl�g",
-    "gm": "Elbl�g",
-    "mjs": "Elbl�g"
+    "woj": "warmińsko-mazurskie",
+    "pow": "Elbląg",
+    "gm": "Elbląg",
+    "mjs": "Elbląg"
   },
   {
     "id": 20171,
@@ -3164,7 +3164,7 @@
     "km": 171,
     "woj": "zachodniopomorkie",
     "pow": "Szczeciniecki / zachodniopomorskie",
-    "gm": "Bia�y B�r",
+    "gm": "Biały Bór",
     "mjs": "Trzebiele"
   },
   {
@@ -3172,70 +3172,70 @@
     "droga": 20,
     "km": 172,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
-    "mjs": "Wolcza Ma�a"
+    "mjs": "Wolcza Mała"
   },
   {
     "id": 20173,
     "droga": 20,
     "km": 173,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
-    "mjs": "Wolcza Ma�a"
+    "mjs": "Wolcza Mała"
   },
   {
     "id": 20174,
     "droga": 20,
     "km": 174,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
-    "mjs": "Wolcza Ma�a"
+    "mjs": "Wolcza Mała"
   },
   {
     "id": 20175,
     "droga": 20,
     "km": 175,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
-    "mjs": "Wolcza Ma�a"
+    "mjs": "Wolcza Mała"
   },
   {
     "id": 20176,
     "droga": 20,
     "km": 176,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
-    "mjs": "Wolcza Ma�a"
+    "mjs": "Wolcza Mała"
   },
   {
     "id": 20177,
     "droga": 20,
     "km": 177,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
-    "mjs": "Wolcza Ma�a"
+    "mjs": "Wolcza Mała"
   },
   {
     "id": 20178,
     "droga": 20,
     "km": 178,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
-    "mjs": "Wolcza Ma�a"
+    "mjs": "Wolcza Mała"
   },
   {
     "id": 20179,
     "droga": 20,
     "km": 179,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Miastko"
   },
@@ -3244,7 +3244,7 @@
     "droga": 20,
     "km": 180,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Miastko"
   },
@@ -3253,7 +3253,7 @@
     "droga": 20,
     "km": 181,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Miastko"
   },
@@ -3262,7 +3262,7 @@
     "droga": 20,
     "km": 182,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Miastko"
   },
@@ -3271,7 +3271,7 @@
     "droga": 20,
     "km": 183,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Miastko"
   },
@@ -3280,7 +3280,7 @@
     "droga": 20,
     "km": 184,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Miastko"
   },
@@ -3289,7 +3289,7 @@
     "droga": 20,
     "km": 185,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Miastko"
   },
@@ -3298,43 +3298,43 @@
     "droga": 20,
     "km": 186,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
-    "mjs": "Prz�sin"
+    "mjs": "Przęsin"
   },
   {
     "id": 20187,
     "droga": 20,
     "km": 187,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
-    "mjs": "Prz�sin"
+    "mjs": "Przęsin"
   },
   {
     "id": 20188,
     "droga": 20,
     "km": 188,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
-    "mjs": "Prz�sin"
+    "mjs": "Przęsin"
   },
   {
     "id": 20189,
     "droga": 20,
     "km": 189,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
-    "mjs": "Prz�sin"
+    "mjs": "Przęsin"
   },
   {
     "id": 20190,
     "droga": 20,
     "km": 190,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Zazdry"
   },
@@ -3343,7 +3343,7 @@
     "droga": 20,
     "km": 191,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Zazdry"
   },
@@ -3352,7 +3352,7 @@
     "droga": 20,
     "km": 192,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Zazdry"
   },
@@ -3361,7 +3361,7 @@
     "droga": 20,
     "km": 193,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Zazdry"
   },
@@ -3370,7 +3370,7 @@
     "droga": 20,
     "km": 194,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Piaszczyna"
   },
@@ -3379,7 +3379,7 @@
     "droga": 20,
     "km": 195,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Piaszczyna"
   },
@@ -3388,7 +3388,7 @@
     "droga": 20,
     "km": 196,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Piaszczyna"
   },
@@ -3397,7 +3397,7 @@
     "droga": 20,
     "km": 197,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Piaszczyna"
   },
@@ -3406,34 +3406,34 @@
     "droga": 20,
     "km": 198,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
-    "mjs": "G�odowo"
+    "mjs": "Głodowo"
   },
   {
     "id": 20199,
     "droga": 20,
     "km": 199,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
-    "mjs": "G�odowo"
+    "mjs": "Głodowo"
   },
   {
     "id": 20200,
     "droga": 20,
     "km": 200,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
-    "mjs": "G�odowo"
+    "mjs": "Głodowo"
   },
   {
     "id": 20201,
     "droga": 20,
     "km": 201,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Tuchomie",
     "mjs": "Kramarzyny"
   },
@@ -3442,7 +3442,7 @@
     "droga": 20,
     "km": 202,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Tuchomie",
     "mjs": "Kramarzyny"
   },
@@ -3451,7 +3451,7 @@
     "droga": 20,
     "km": 203,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Tuchomie",
     "mjs": "Kramarzyny"
   },
@@ -3460,7 +3460,7 @@
     "droga": 20,
     "km": 204,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Tuchomie",
     "mjs": "Trzebiatkowa"
   },
@@ -3469,7 +3469,7 @@
     "droga": 20,
     "km": 205,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Tuchomie",
     "mjs": "Trzebiatkowa"
   },
@@ -3478,7 +3478,7 @@
     "droga": 20,
     "km": 206,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Tuchomie",
     "mjs": "Trzebiatkowa"
   },
@@ -3487,7 +3487,7 @@
     "droga": 20,
     "km": 207,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Tuchomie",
     "mjs": "Trzebiatkowa"
   },
@@ -3496,7 +3496,7 @@
     "droga": 20,
     "km": 208,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Tuchomie",
     "mjs": "Dalekie"
   },
@@ -3505,7 +3505,7 @@
     "droga": 20,
     "km": 209,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Tuchomie",
     "mjs": "Dalekie"
   },
@@ -3514,7 +3514,7 @@
     "droga": 20,
     "km": 210,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Tuchomie",
     "mjs": "Tuchomie"
   },
@@ -3523,7 +3523,7 @@
     "droga": 20,
     "km": 211,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Tuchomie",
     "mjs": "Tuchomie"
   },
@@ -3532,7 +3532,7 @@
     "droga": 20,
     "km": 212,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Tuchomie",
     "mjs": "Tuchomie"
   },
@@ -3541,7 +3541,7 @@
     "droga": 20,
     "km": 213,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Tuchomie",
     "mjs": "Tuchomie"
   },
@@ -3550,7 +3550,7 @@
     "droga": 20,
     "km": 214,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Tuchomie",
     "mjs": "Tuchomie"
   },
@@ -3559,7 +3559,7 @@
     "droga": 20,
     "km": 215,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Tuchomie",
     "mjs": "Tuchomie"
   },
@@ -3568,7 +3568,7 @@
     "droga": 20,
     "km": 216,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Tuchomie",
     "mjs": "Tuchomie"
   },
@@ -3577,8 +3577,8 @@
     "droga": 20,
     "km": 217,
     "woj": "pomorskie",
-    "pow": "Byt�w",
-    "gm": "Byt�w",
+    "pow": "Bytów",
+    "gm": "Bytów",
     "mjs": "Niezabyszwo"
   },
   {
@@ -3586,8 +3586,8 @@
     "droga": 20,
     "km": 218,
     "woj": "pomorskie",
-    "pow": "Byt�w",
-    "gm": "Byt�w",
+    "pow": "Bytów",
+    "gm": "Bytów",
     "mjs": "Niezabyszwo"
   },
   {
@@ -3595,8 +3595,8 @@
     "droga": 20,
     "km": 219,
     "woj": "pomorskie",
-    "pow": "Byt�w",
-    "gm": "Byt�w",
+    "pow": "Bytów",
+    "gm": "Bytów",
     "mjs": "Niezabyszwo"
   },
   {
@@ -3604,8 +3604,8 @@
     "droga": 20,
     "km": 220,
     "woj": "pomorskie",
-    "pow": "Byt�w",
-    "gm": "Byt�w",
+    "pow": "Bytów",
+    "gm": "Bytów",
     "mjs": "Niezabyszwo"
   },
   {
@@ -3613,8 +3613,8 @@
     "droga": 20,
     "km": 221,
     "woj": "pomorskie",
-    "pow": "Byt�w",
-    "gm": "Byt�w",
+    "pow": "Bytów",
+    "gm": "Bytów",
     "mjs": "Niezabyszwo"
   },
   {
@@ -3622,8 +3622,8 @@
     "droga": 20,
     "km": 222,
     "woj": "pomorskie",
-    "pow": "Byt�w",
-    "gm": "Byt�w",
+    "pow": "Bytów",
+    "gm": "Bytów",
     "mjs": "Niezabyszwo"
   },
   {
@@ -3631,80 +3631,80 @@
     "droga": 20,
     "km": 223,
     "woj": "pomorskie",
-    "pow": "Byt�w",
-    "gm": "Byt�w",
-    "mjs": "Byt�w"
+    "pow": "Bytów",
+    "gm": "Bytów",
+    "mjs": "Bytów"
   },
   {
     "id": 20224,
     "droga": 20,
     "km": 224,
     "woj": "pomorskie",
-    "pow": "Byt�w",
-    "gm": "Byt�w",
-    "mjs": "Byt�w"
+    "pow": "Bytów",
+    "gm": "Bytów",
+    "mjs": "Bytów"
   },
   {
     "id": 20225,
     "droga": 20,
     "km": 225,
     "woj": "pomorskie",
-    "pow": "Byt�w",
-    "gm": "Byt�w",
-    "mjs": "Byt�w"
+    "pow": "Bytów",
+    "gm": "Bytów",
+    "mjs": "Bytów"
   },
   {
     "id": 20226,
     "droga": 20,
     "km": 226,
     "woj": "pomorskie",
-    "pow": "Byt�w",
-    "gm": "Byt�w",
-    "mjs": "Byt�w"
+    "pow": "Bytów",
+    "gm": "Bytów",
+    "mjs": "Bytów"
   },
   {
     "id": 20227,
     "droga": 20,
     "km": 227,
     "woj": "pomorskie",
-    "pow": "Byt�w",
-    "gm": "Byt�w",
-    "mjs": "Byt�w"
+    "pow": "Bytów",
+    "gm": "Bytów",
+    "mjs": "Bytów"
   },
   {
     "id": 20228,
     "droga": 20,
     "km": 228,
     "woj": "pomorskie",
-    "pow": "Byt�w",
-    "gm": "Byt�w",
-    "mjs": "M�drzechowo"
+    "pow": "Bytów",
+    "gm": "Bytów",
+    "mjs": "Mądrzechowo"
   },
   {
     "id": 20229,
     "droga": 20,
     "km": 229,
     "woj": "pomorskie",
-    "pow": "Byt�w",
-    "gm": "Byt�w",
-    "mjs": "M�drzechowo"
+    "pow": "Bytów",
+    "gm": "Bytów",
+    "mjs": "Mądrzechowo"
   },
   {
     "id": 20230,
     "droga": 20,
     "km": 230,
     "woj": "pomorskie",
-    "pow": "Byt�w",
-    "gm": "Byt�w",
-    "mjs": "M�drzechowo"
+    "pow": "Bytów",
+    "gm": "Bytów",
+    "mjs": "Mądrzechowo"
   },
   {
     "id": 20231,
     "droga": 20,
     "km": 231,
     "woj": "pomorskie",
-    "pow": "Byt�w",
-    "gm": "Byt�w",
+    "pow": "Bytów",
+    "gm": "Bytów",
     "mjs": "Mokrzyn"
   },
   {
@@ -3712,8 +3712,8 @@
     "droga": 20,
     "km": 232,
     "woj": "pomorskie",
-    "pow": "Byt�w",
-    "gm": "Byt�w",
+    "pow": "Bytów",
+    "gm": "Bytów",
     "mjs": "Mokrzyn"
   },
   {
@@ -3721,8 +3721,8 @@
     "droga": 20,
     "km": 233,
     "woj": "pomorskie",
-    "pow": "Byt�w",
-    "gm": "Byt�w",
+    "pow": "Bytów",
+    "gm": "Bytów",
     "mjs": "Mokrzyn"
   },
   {
@@ -3730,52 +3730,52 @@
     "droga": 20,
     "km": 234,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Studzienice",
-    "mjs": "��kie"
+    "mjs": "Łąkie"
   },
   {
     "id": 20235,
     "droga": 20,
     "km": 235,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Studzienice",
-    "mjs": "��kie"
+    "mjs": "Łąkie"
   },
   {
     "id": 20236,
     "droga": 20,
     "km": 236,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Studzienice",
-    "mjs": "P�czno"
+    "mjs": "Półczno"
   },
   {
     "id": 20237,
     "droga": 20,
     "km": 237,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Studzienice",
-    "mjs": "P�czno"
+    "mjs": "Półczno"
   },
   {
     "id": 20238,
     "droga": 20,
     "km": 238,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Studzienice",
-    "mjs": "P�czno"
+    "mjs": "Półczno"
   },
   {
     "id": 20239,
     "droga": 20,
     "km": 239,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Parchowo",
     "mjs": "Nakla"
   },
@@ -3784,7 +3784,7 @@
     "droga": 20,
     "km": 240,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Parchowo",
     "mjs": "Nakla"
   },
@@ -3793,7 +3793,7 @@
     "droga": 20,
     "km": 241,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Parchowo",
     "mjs": "Nakla"
   },
@@ -3802,7 +3802,7 @@
     "droga": 20,
     "km": 242,
     "woj": "pomorskie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Parchowo",
     "mjs": "Nakla"
   },
@@ -3811,7 +3811,7 @@
     "droga": 20,
     "km": 243,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
+    "pow": "Kościerzyna",
     "gm": "Lipusz",
     "mjs": "Gostomko"
   },
@@ -3820,7 +3820,7 @@
     "droga": 20,
     "km": 244,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
+    "pow": "Kościerzyna",
     "gm": "Lipusz",
     "mjs": "Gostomko"
   },
@@ -3829,7 +3829,7 @@
     "droga": 20,
     "km": 245,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
+    "pow": "Kościerzyna",
     "gm": "Lipusz",
     "mjs": "Gostomko"
   },
@@ -3838,7 +3838,7 @@
     "droga": 20,
     "km": 246,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
+    "pow": "Kościerzyna",
     "gm": "Lipusz",
     "mjs": "Gostomko"
   },
@@ -3847,7 +3847,7 @@
     "droga": 20,
     "km": 247,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
+    "pow": "Kościerzyna",
     "gm": "Lipusz",
     "mjs": "Gostomko"
   },
@@ -3856,7 +3856,7 @@
     "droga": 20,
     "km": 248,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
+    "pow": "Kościerzyna",
     "gm": "Lipusz",
     "mjs": "Gostomko"
   },
@@ -3865,8 +3865,8 @@
     "droga": 20,
     "km": 249,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
     "mjs": "Korne"
   },
   {
@@ -3874,8 +3874,8 @@
     "droga": 20,
     "km": 250,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
     "mjs": "Korne"
   },
   {
@@ -3883,8 +3883,8 @@
     "droga": 20,
     "km": 251,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
     "mjs": "Korne"
   },
   {
@@ -3892,8 +3892,8 @@
     "droga": 20,
     "km": 252,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
     "mjs": "Korne"
   },
   {
@@ -3901,8 +3901,8 @@
     "droga": 20,
     "km": 253,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
     "mjs": "Korne"
   },
   {
@@ -3910,180 +3910,180 @@
     "droga": 20,
     "km": 254,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
-    "mjs": "�ubiana"
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
+    "mjs": "Łubiana"
   },
   {
     "id": 20255,
     "droga": 20,
     "km": 255,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
-    "mjs": "Ko�cierzyna"
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
+    "mjs": "Kościerzyna"
   },
   {
     "id": 20256,
     "droga": 20,
     "km": 256,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
-    "mjs": "Ko�cierzyna"
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
+    "mjs": "Kościerzyna"
   },
   {
     "id": 20257,
     "droga": 20,
     "km": 257,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
-    "mjs": "Ko�cierzyna"
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
+    "mjs": "Kościerzyna"
   },
   {
     "id": 20258,
     "droga": 20,
     "km": 258,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
-    "mjs": "Ko�cierzyna"
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
+    "mjs": "Kościerzyna"
   },
   {
     "id": 20259,
     "droga": 20,
     "km": 259,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
-    "mjs": "Ko�cierzyna"
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
+    "mjs": "Kościerzyna"
   },
   {
     "id": 20260,
     "droga": 20,
     "km": 260,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
-    "mjs": "Ko�cierzyna"
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
+    "mjs": "Kościerzyna"
   },
   {
     "id": 20261,
     "droga": 20,
     "km": 261,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
-    "mjs": "Ko�cierzyna"
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
+    "mjs": "Kościerzyna"
   },
   {
     "id": 20262,
     "droga": 20,
     "km": 262,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
-    "mjs": "Ko�cierzyna"
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
+    "mjs": "Kościerzyna"
   },
   {
     "id": 20263,
     "droga": 20,
     "km": 263,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
-    "mjs": "Ko�cierzyna"
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
+    "mjs": "Kościerzyna"
   },
   {
     "id": 20264,
     "droga": 20,
     "km": 264,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
-    "mjs": "Kaliska Ko�cierskie"
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
+    "mjs": "Kaliska Kościerskie"
   },
   {
     "id": 20265,
     "droga": 20,
     "km": 265,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
-    "mjs": "Kaliska Ko�cierskie"
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
+    "mjs": "Kaliska Kościerskie"
   },
   {
     "id": 20266,
     "droga": 20,
     "km": 266,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
-    "mjs": "Kaliska Ko�cierskie"
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
+    "mjs": "Kaliska Kościerskie"
   },
   {
     "id": 20267,
     "droga": 20,
     "km": 267,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
-    "mjs": "Kaliska Ko�cierskie"
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
+    "mjs": "Kaliska Kościerskie"
   },
   {
     "id": 20268,
     "droga": 20,
     "km": 268,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
-    "mjs": "Kaliska Ko�cierskie"
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
+    "mjs": "Kaliska Kościerskie"
   },
   {
     "id": 20269,
     "droga": 20,
     "km": 269,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
-    "mjs": "Kaliska Ko�cierskie"
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
+    "mjs": "Kaliska Kościerskie"
   },
   {
     "id": 20270,
     "droga": 20,
     "km": 270,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
-    "mjs": "K�obuczyno"
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
+    "mjs": "Kłobuczyno"
   },
   {
     "id": 20271,
     "droga": 20,
     "km": 271,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
-    "mjs": "K�obuczyno"
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
+    "mjs": "Kłobuczyno"
   },
   {
     "id": 20272,
     "droga": 20,
     "km": 272,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
-    "mjs": "K�obuczyno"
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
+    "mjs": "Kłobuczyno"
   },
   {
     "id": 20273,
     "droga": 20,
     "km": 273,
     "woj": "pomorskie",
-    "pow": "Ko�cierzyna",
-    "gm": "Ko�cierzyna",
-    "mjs": "K�obuczyno"
+    "pow": "Kościerzyna",
+    "gm": "Kościerzyna",
+    "mjs": "Kłobuczyno"
   },
   {
     "id": 20274,
@@ -4091,7 +4091,7 @@
     "km": 274,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "St�yca",
+    "gm": "Stężyca",
     "mjs": "Szymbark"
   },
   {
@@ -4100,7 +4100,7 @@
     "km": 275,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "St�yca",
+    "gm": "Stężyca",
     "mjs": "Szymbark"
   },
   {
@@ -4109,7 +4109,7 @@
     "km": 276,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "St�yca",
+    "gm": "Stężyca",
     "mjs": "Szymbark"
   },
   {
@@ -4253,8 +4253,8 @@
     "km": 292,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
-    "mjs": "Babi D�"
+    "gm": "Żukowo",
+    "mjs": "Babi Dół"
   },
   {
     "id": 20293,
@@ -4262,8 +4262,8 @@
     "km": 293,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
-    "mjs": "Babi D�"
+    "gm": "Żukowo",
+    "mjs": "Babi Dół"
   },
   {
     "id": 20294,
@@ -4271,8 +4271,8 @@
     "km": 294,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
-    "mjs": "Babi D�"
+    "gm": "Żukowo",
+    "mjs": "Babi Dół"
   },
   {
     "id": 20295,
@@ -4280,7 +4280,7 @@
     "km": 295,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
+    "gm": "Żukowo",
     "mjs": "Glincz"
   },
   {
@@ -4289,7 +4289,7 @@
     "km": 296,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
+    "gm": "Żukowo",
     "mjs": "Glincz"
   },
   {
@@ -4298,8 +4298,8 @@
     "km": 297,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
-    "mjs": "�ukowo"
+    "gm": "Żukowo",
+    "mjs": "Żukowo"
   },
   {
     "id": 20298,
@@ -4307,8 +4307,8 @@
     "km": 298,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
-    "mjs": "�ukowo"
+    "gm": "Żukowo",
+    "mjs": "Żukowo"
   },
   {
     "id": 20299,
@@ -4316,8 +4316,8 @@
     "km": 299,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
-    "mjs": "�ukowo"
+    "gm": "Żukowo",
+    "mjs": "Żukowo"
   },
   {
     "id": 20300,
@@ -4325,8 +4325,8 @@
     "km": 300,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
-    "mjs": "�ukowo"
+    "gm": "Żukowo",
+    "mjs": "Żukowo"
   },
   {
     "id": 20301,
@@ -4334,8 +4334,8 @@
     "km": 301,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
-    "mjs": "�ukowo"
+    "gm": "Żukowo",
+    "mjs": "Żukowo"
   },
   {
     "id": 20302,
@@ -4343,8 +4343,8 @@
     "km": 302,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
-    "mjs": "�ukowo"
+    "gm": "Żukowo",
+    "mjs": "Żukowo"
   },
   {
     "id": 20303,
@@ -4352,7 +4352,7 @@
     "km": 303,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
+    "gm": "Żukowo",
     "mjs": "Miszewo"
   },
   {
@@ -4361,7 +4361,7 @@
     "km": 304,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
+    "gm": "Żukowo",
     "mjs": "Miszewo"
   },
   {
@@ -4370,7 +4370,7 @@
     "km": 305,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
+    "gm": "Żukowo",
     "mjs": "Miszewo"
   },
   {
@@ -4379,7 +4379,7 @@
     "km": 306,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
+    "gm": "Żukowo",
     "mjs": "Miszewo"
   },
   {
@@ -4388,7 +4388,7 @@
     "km": 307,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
+    "gm": "Żukowo",
     "mjs": "Tuchom"
   },
   {
@@ -4397,7 +4397,7 @@
     "km": 308,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
+    "gm": "Żukowo",
     "mjs": "Tuchom"
   },
   {
@@ -4406,7 +4406,7 @@
     "km": 309,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
+    "gm": "Żukowo",
     "mjs": "Tuchom"
   },
   {
@@ -4415,7 +4415,7 @@
     "km": 310,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
+    "gm": "Żukowo",
     "mjs": "Chwaszczyno"
   },
   {
@@ -4424,7 +4424,7 @@
     "km": 311,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
+    "gm": "Żukowo",
     "mjs": "Chwaszczyno"
   },
   {
@@ -4433,7 +4433,7 @@
     "km": 312,
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
+    "gm": "Żukowo",
     "mjs": "Chwaszczyno"
   },
   {
@@ -4442,7 +4442,7 @@
     "km": "312,1",
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
+    "gm": "Żukowo",
     "mjs": "Chwaszczyno"
   },
   {
@@ -4451,7 +4451,7 @@
     "km": "312,2",
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
+    "gm": "Żukowo",
     "mjs": "Chwaszczyno"
   },
   {
@@ -4460,7 +4460,7 @@
     "km": "312,3",
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
+    "gm": "Żukowo",
     "mjs": "Chwaszczyno"
   },
   {
@@ -4469,7 +4469,7 @@
     "km": "312,4",
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
+    "gm": "Żukowo",
     "mjs": "Chwaszczyno"
   },
   {
@@ -4478,7 +4478,7 @@
     "km": "312,5",
     "woj": "pomorskie",
     "pow": "Kartuzy",
-    "gm": "�ukowo",
+    "gm": "Żukowo",
     "mjs": "Chwaszczyno"
   },
   {
@@ -4801,7 +4801,7 @@
     "droga": 21,
     "km": 0,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Miastko"
   },
@@ -4810,7 +4810,7 @@
     "droga": 21,
     "km": 1,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Miastko"
   },
@@ -4819,7 +4819,7 @@
     "droga": 21,
     "km": 2,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Miastko"
   },
@@ -4828,7 +4828,7 @@
     "droga": 21,
     "km": 3,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Miastko"
   },
@@ -4837,7 +4837,7 @@
     "droga": 21,
     "km": 4,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Miastko"
   },
@@ -4846,7 +4846,7 @@
     "droga": 21,
     "km": 5,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Miastko"
   },
@@ -4855,7 +4855,7 @@
     "droga": 21,
     "km": 6,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Miastko"
   },
@@ -4864,7 +4864,7 @@
     "droga": 21,
     "km": 7,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Kowalenice"
   },
@@ -4873,7 +4873,7 @@
     "droga": 21,
     "km": 8,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Kowalenice"
   },
@@ -4882,7 +4882,7 @@
     "droga": 21,
     "km": 9,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
     "mjs": "Kowalenice"
   },
@@ -4891,70 +4891,70 @@
     "droga": 21,
     "km": 10,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
-    "mjs": "Drety�"
+    "mjs": "Dretyń"
   },
   {
     "id": 2111,
     "droga": 21,
     "km": 11,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
-    "mjs": "Drety�"
+    "mjs": "Dretyń"
   },
   {
     "id": 2112,
     "droga": 21,
     "km": 12,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
-    "mjs": "Drety�"
+    "mjs": "Dretyń"
   },
   {
     "id": 2113,
     "droga": 21,
     "km": 13,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
-    "mjs": "Drety�"
+    "mjs": "Dretyń"
   },
   {
     "id": 2114,
     "droga": 21,
     "km": 14,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
-    "mjs": "Drety�"
+    "mjs": "Dretyń"
   },
   {
     "id": 2115,
     "droga": 21,
     "km": 15,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
-    "mjs": "Drety�"
+    "mjs": "Dretyń"
   },
   {
     "id": 2116,
     "droga": 21,
     "km": 16,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Miastko",
-    "mjs": "Drety�"
+    "mjs": "Dretyń"
   },
   {
     "id": 2117,
     "droga": 21,
     "km": 17,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Trzebielino",
     "mjs": "Trzebielino"
   },
@@ -4963,7 +4963,7 @@
     "droga": 21,
     "km": 18,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Trzebielino",
     "mjs": "Trzebielino"
   },
@@ -4972,7 +4972,7 @@
     "droga": 21,
     "km": 19,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Trzebielino",
     "mjs": "Trzebielino"
   },
@@ -4981,7 +4981,7 @@
     "droga": 21,
     "km": 20,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Trzebielino",
     "mjs": "Trzebielino"
   },
@@ -4990,7 +4990,7 @@
     "droga": 21,
     "km": 21,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Trzebielino",
     "mjs": "Trzebielino"
   },
@@ -4999,7 +4999,7 @@
     "droga": 21,
     "km": 22,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Trzebielino",
     "mjs": "Trzebielino"
   },
@@ -5008,7 +5008,7 @@
     "droga": 21,
     "km": 23,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Trzebielino",
     "mjs": "Trzebielino"
   },
@@ -5017,7 +5017,7 @@
     "droga": 21,
     "km": 24,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Trzebielino",
     "mjs": "Trzebielino"
   },
@@ -5026,7 +5026,7 @@
     "droga": 21,
     "km": 25,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Trzebielino",
     "mjs": "Trzebielino"
   },
@@ -5035,7 +5035,7 @@
     "droga": 21,
     "km": 26,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Trzebielino",
     "mjs": "Trzebielino"
   },
@@ -5044,7 +5044,7 @@
     "droga": 21,
     "km": 27,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Trzebielino",
     "mjs": "Trzebielino"
   },
@@ -5053,7 +5053,7 @@
     "droga": 21,
     "km": 28,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Trzebielino",
     "mjs": "Zielin"
   },
@@ -5062,7 +5062,7 @@
     "droga": 21,
     "km": 29,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Trzebielino",
     "mjs": "Zielin"
   },
@@ -5071,7 +5071,7 @@
     "droga": 21,
     "km": 30,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Trzebielino",
     "mjs": "Zielin"
   },
@@ -5080,7 +5080,7 @@
     "droga": 21,
     "km": 31,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Trzebielino",
     "mjs": "Zielin"
   },
@@ -5089,7 +5089,7 @@
     "droga": 21,
     "km": 32,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Trzebielino",
     "mjs": "Suchorze"
   },
@@ -5098,7 +5098,7 @@
     "droga": 21,
     "km": 33,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Trzebielino",
     "mjs": "Suchorze"
   },
@@ -5107,7 +5107,7 @@
     "droga": 21,
     "km": 34,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Trzebielino",
     "mjs": "Suchorze"
   },
@@ -5116,7 +5116,7 @@
     "droga": 21,
     "km": 35,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Trzebielino",
     "mjs": "Suchorze"
   },
@@ -5125,7 +5125,7 @@
     "droga": 21,
     "km": 36,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Trzebielino",
     "mjs": "Suchorze"
   },
@@ -5134,7 +5134,7 @@
     "droga": 21,
     "km": 37,
     "woj": "pomorkie",
-    "pow": "Byt�w",
+    "pow": "Bytów",
     "gm": "Trzebielino",
     "mjs": "Suchorze"
   },
@@ -5143,7 +5143,7 @@
     "droga": 21,
     "km": 38,
     "woj": "pomorkie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Kobylnica",
     "mjs": "Kwakowo"
   },
@@ -5152,7 +5152,7 @@
     "droga": 21,
     "km": 39,
     "woj": "pomorkie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Kobylnica",
     "mjs": "Kwakowo"
   },
@@ -5161,7 +5161,7 @@
     "droga": 21,
     "km": 40,
     "woj": "pomorkie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Kobylnica",
     "mjs": "Kwakowo"
   },
@@ -5170,7 +5170,7 @@
     "droga": 21,
     "km": 41,
     "woj": "pomorkie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Kobylnica",
     "mjs": "Kwakowo"
   },
@@ -5179,7 +5179,7 @@
     "droga": 21,
     "km": 42,
     "woj": "pomorkie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Kobylnica",
     "mjs": "Kwakowo"
   },
@@ -5188,7 +5188,7 @@
     "droga": 21,
     "km": 43,
     "woj": "pomorkie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Kobylnica",
     "mjs": "Kwakowo"
   },
@@ -5197,7 +5197,7 @@
     "droga": 21,
     "km": 44,
     "woj": "pomorkie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Kobylnica",
     "mjs": "Kwakowo"
   },
@@ -5206,7 +5206,7 @@
     "droga": 21,
     "km": 45,
     "woj": "pomorkie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Kobylnica",
     "mjs": "Kwakowo"
   },
@@ -5215,7 +5215,7 @@
     "droga": 21,
     "km": 46,
     "woj": "pomorkie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Kobylnica",
     "mjs": "Kwakowo"
   },
@@ -5224,7 +5224,7 @@
     "droga": 21,
     "km": 47,
     "woj": "pomorkie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Kobylnica",
     "mjs": "Kwakowo"
   },
@@ -5233,170 +5233,170 @@
     "droga": 21,
     "km": 48,
     "woj": "pomorkie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Kobylnica",
-    "mjs": "�osino"
+    "mjs": "Łosino"
   },
   {
     "id": 2149,
     "droga": 21,
     "km": 49,
     "woj": "pomorkie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Kobylnica",
-    "mjs": "�osino"
+    "mjs": "Łosino"
   },
   {
     "id": 2150,
     "droga": 21,
     "km": 50,
     "woj": "pomorkie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Kobylnica",
-    "mjs": "�osino"
+    "mjs": "Łosino"
   },
   {
     "id": 2151,
     "droga": 21,
     "km": 51,
     "woj": "pomorkie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "S�upsk"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Słupsk"
   },
   {
     "id": 2152,
     "droga": 21,
     "km": 52,
     "woj": "pomorkie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "S�upsk"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Słupsk"
   },
   {
     "id": 2153,
     "droga": 21,
     "km": 53,
     "woj": "pomorkie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "S�upsk"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Słupsk"
   },
   {
     "id": 2154,
     "droga": 21,
     "km": 54,
     "woj": "pomorkie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "S�upsk"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Słupsk"
   },
   {
     "id": 2155,
     "droga": 21,
     "km": 55,
     "woj": "pomorkie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "S�upsk"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Słupsk"
   },
   {
     "id": 2156,
     "droga": 21,
     "km": 56,
     "woj": "pomorkie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "S�upsk"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Słupsk"
   },
   {
     "id": 2157,
     "droga": 21,
     "km": 57,
     "woj": "pomorkie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "S�upsk"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Słupsk"
   },
   {
     "id": 2158,
     "droga": 21,
     "km": 58,
     "woj": "pomorkie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "S�upsk"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Słupsk"
   },
   {
     "id": 2159,
     "droga": 21,
     "km": 59,
     "woj": "pomorkie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "S�upsk"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Słupsk"
   },
   {
     "id": 2160,
     "droga": 21,
     "km": 60,
     "woj": "pomorkie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "S�upsk"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Słupsk"
   },
   {
     "id": 2161,
     "droga": 21,
     "km": 61,
     "woj": "pomorkie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "S�upsk"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Słupsk"
   },
   {
     "id": 2162,
     "droga": 21,
     "km": 62,
     "woj": "pomorkie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "S�upsk"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Słupsk"
   },
   {
     "id": 2163,
     "droga": 21,
     "km": 63,
     "woj": "pomorkie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "W�ynk�wko"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Włynkówko"
   },
   {
     "id": 2164,
     "droga": 21,
     "km": 64,
     "woj": "pomorkie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "W�ynk�wko"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Włynkówko"
   },
   {
     "id": 2165,
     "droga": 21,
     "km": 65,
     "woj": "pomorkie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
-    "mjs": "W�ynk�wko"
+    "pow": "Słupsk",
+    "gm": "Słupsk",
+    "mjs": "Włynkówko"
   },
   {
     "id": 2166,
     "droga": 21,
     "km": 66,
     "woj": "pomorkie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
+    "pow": "Słupsk",
+    "gm": "Słupsk",
     "mjs": "Bydlino"
   },
   {
@@ -5404,8 +5404,8 @@
     "droga": 21,
     "km": 67,
     "woj": "pomorkie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
+    "pow": "Słupsk",
+    "gm": "Słupsk",
     "mjs": "Bydlino"
   },
   {
@@ -5413,8 +5413,8 @@
     "droga": 21,
     "km": 68,
     "woj": "pomorkie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
+    "pow": "Słupsk",
+    "gm": "Słupsk",
     "mjs": "Bydlino"
   },
   {
@@ -5422,8 +5422,8 @@
     "droga": 21,
     "km": 69,
     "woj": "pomorkie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
+    "pow": "Słupsk",
+    "gm": "Słupsk",
     "mjs": "Bydlino"
   },
   {
@@ -5431,8 +5431,8 @@
     "droga": 21,
     "km": 70,
     "woj": "pomorkie",
-    "pow": "S�upsk",
-    "gm": "S�upsk",
+    "pow": "Słupsk",
+    "gm": "Słupsk",
     "mjs": "Bydlino"
   },
   {
@@ -5440,7 +5440,7 @@
     "droga": 21,
     "km": 71,
     "woj": "pomorkie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Ustka",
     "mjs": "Grabno"
   },
@@ -5449,7 +5449,7 @@
     "droga": 21,
     "km": 72,
     "woj": "pomorkie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Ustka",
     "mjs": "Grabno"
   },
@@ -5458,7 +5458,7 @@
     "droga": 21,
     "km": 73,
     "woj": "pomorkie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Ustka",
     "mjs": "Grabno"
   },
@@ -5467,7 +5467,7 @@
     "droga": 21,
     "km": 74,
     "woj": "pomorkie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Ustka",
     "mjs": "Ustka"
   },
@@ -5476,7 +5476,7 @@
     "droga": 21,
     "km": 75,
     "woj": "pomorkie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Ustka",
     "mjs": "Ustka"
   },
@@ -5485,7 +5485,7 @@
     "droga": 21,
     "km": 76,
     "woj": "pomorkie",
-    "pow": "S�upsk",
+    "pow": "Słupsk",
     "gm": "Ustka",
     "mjs": "Ustka"
   },
@@ -5494,16 +5494,16 @@
     "droga": 22,
     "km": 206,
     "woj": "wielkopolskie",
-    "pow": "Z�ot�w",
+    "pow": "Złotów",
     "gm": "id",
-    "mjs": "L�dyczek"
+    "mjs": "Lędyczek"
   },
   {
     "id": 22207,
     "droga": 22,
     "km": 207,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Debrzno",
     "mjs": "Cierznie"
   },
@@ -5512,7 +5512,7 @@
     "droga": 22,
     "km": 208,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Debrzno",
     "mjs": "Cierznie"
   },
@@ -5521,7 +5521,7 @@
     "droga": 22,
     "km": 209,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Debrzno",
     "mjs": "Cierznie"
   },
@@ -5530,7 +5530,7 @@
     "droga": 22,
     "km": 210,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Debrzno",
     "mjs": "Cierznie"
   },
@@ -5539,7 +5539,7 @@
     "droga": 22,
     "km": 211,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Debrzno",
     "mjs": "Cierznie"
   },
@@ -5548,7 +5548,7 @@
     "droga": 22,
     "km": 212,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Debrzno",
     "mjs": "Cierznie"
   },
@@ -5557,61 +5557,61 @@
     "droga": 22,
     "km": 213,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Debrzno",
-    "mjs": "Uniech�wek"
+    "mjs": "Uniechówek"
   },
   {
     "id": 22214,
     "droga": 22,
     "km": 214,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Debrzno",
-    "mjs": "Uniech�wek"
+    "mjs": "Uniechówek"
   },
   {
     "id": 22215,
     "droga": 22,
     "km": 215,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Debrzno",
-    "mjs": "Uniech�w"
+    "mjs": "Uniechów"
   },
   {
     "id": 22216,
     "droga": 22,
     "km": 216,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Debrzno",
-    "mjs": "Uniech�w"
+    "mjs": "Uniechów"
   },
   {
     "id": 22217,
     "droga": 22,
     "km": 217,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Debrzno",
-    "mjs": "Uniech�w"
+    "mjs": "Uniechów"
   },
   {
     "id": 22218,
     "droga": 22,
     "km": 218,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Debrzno",
-    "mjs": "Uniech�w"
+    "mjs": "Uniechów"
   },
   {
     "id": 22219,
     "droga": 22,
     "km": 219,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
     "mjs": "Barkowo"
   },
@@ -5620,7 +5620,7 @@
     "droga": 22,
     "km": 220,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
     "mjs": "Barkowo"
   },
@@ -5629,7 +5629,7 @@
     "droga": 22,
     "km": 221,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
     "mjs": "Barkowo"
   },
@@ -5638,7 +5638,7 @@
     "droga": 22,
     "km": 222,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
     "mjs": "Barkowo"
   },
@@ -5647,61 +5647,61 @@
     "droga": 22,
     "km": 223,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
-    "mjs": "Chrz�stowo"
+    "mjs": "Chrząstowo"
   },
   {
     "id": 22224,
     "droga": 22,
     "km": 224,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
-    "mjs": "Chrz�stowo"
+    "mjs": "Chrząstowo"
   },
   {
     "id": 22225,
     "droga": 22,
     "km": 225,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
-    "mjs": "Chrz�stowo"
+    "mjs": "Chrząstowo"
   },
   {
     "id": 22226,
     "droga": 22,
     "km": 226,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
-    "mjs": "Chrz�stowo"
+    "mjs": "Chrząstowo"
   },
   {
     "id": 22227,
     "droga": 22,
     "km": 227,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
-    "mjs": "Chrz�stowo"
+    "mjs": "Chrząstowo"
   },
   {
     "id": 22228,
     "droga": 22,
     "km": 228,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
-    "mjs": "Chrz�stowo"
+    "mjs": "Chrząstowo"
   },
   {
     "id": 22229,
     "droga": 22,
     "km": 229,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
     "mjs": "Jaromierz"
   },
@@ -5710,7 +5710,7 @@
     "droga": 22,
     "km": 230,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
     "mjs": "Jaromierz"
   },
@@ -5719,7 +5719,7 @@
     "droga": 22,
     "km": 231,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
     "mjs": "Człuchów"
   },
@@ -5728,7 +5728,7 @@
     "droga": 22,
     "km": 232,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
     "mjs": "Człuchów"
   },
@@ -5737,7 +5737,7 @@
     "droga": 22,
     "km": 233,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
     "mjs": "Człuchów"
   },
@@ -5746,7 +5746,7 @@
     "droga": 22,
     "km": 234,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
     "mjs": "Człuchów"
   },
@@ -5755,7 +5755,7 @@
     "droga": 22,
     "km": 235,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
     "mjs": "Człuchów"
   },
@@ -5764,7 +5764,7 @@
     "droga": 22,
     "km": 236,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
     "mjs": "Człuchów"
   },
@@ -5773,7 +5773,7 @@
     "droga": 22,
     "km": 237,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
     "mjs": "Rychnowy"
   },
@@ -5782,7 +5782,7 @@
     "droga": 22,
     "km": 238,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
     "mjs": "Rychnowy"
   },
@@ -5791,7 +5791,7 @@
     "droga": 22,
     "km": 239,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
     "mjs": "Rychnowy"
   },
@@ -5800,7 +5800,7 @@
     "droga": 22,
     "km": 240,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
     "mjs": "Rychnowy"
   },
@@ -5809,7 +5809,7 @@
     "droga": 22,
     "km": 241,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
     "mjs": "Rychnowy"
   },
@@ -5818,27 +5818,27 @@
     "droga": 22,
     "km": 242,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
-    "mjs": "Brze�no"
+    "mjs": "Brzeźno"
   },
   {
     "id": 22243,
     "droga": 22,
     "km": 243,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
-    "mjs": "Brze�no"
+    "mjs": "Brzeźno"
   },
   {
     "id": 22244,
     "droga": 22,
     "km": 244,
     "woj": "pomorkie",
-    "pow": "Cz��ch�w",
+    "pow": "Człóchów",
     "gm": "Człuchów",
-    "mjs": "Brze�no"
+    "mjs": "Brzeźno"
   },
   {
     "id": 22245,
@@ -6198,7 +6198,7 @@
     "woj": "pomorkie",
     "pow": "Chojnice",
     "gm": "Czersk",
-    "mjs": "��g"
+    "mjs": "Łąg"
   },
   {
     "id": 22285,
@@ -6207,7 +6207,7 @@
     "woj": "pomorkie",
     "pow": "Chojnice",
     "gm": "Czersk",
-    "mjs": "��g"
+    "mjs": "Łąg"
   },
   {
     "id": 22286,
@@ -6216,14 +6216,14 @@
     "woj": "pomorkie",
     "pow": "Chojnice",
     "gm": "Czersk",
-    "mjs": "��g"
+    "mjs": "Łąg"
   },
   {
     "id": 22287,
     "droga": 22,
     "km": 287,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Czarna Woda",
     "mjs": "Czarna Woda"
   },
@@ -6232,7 +6232,7 @@
     "droga": 22,
     "km": 288,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Czarna Woda",
     "mjs": "Czarna Woda"
   },
@@ -6241,7 +6241,7 @@
     "droga": 22,
     "km": 289,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Czarna Woda",
     "mjs": "Czarna Woda"
   },
@@ -6250,7 +6250,7 @@
     "droga": 22,
     "km": 290,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Czarna Woda",
     "mjs": "Czarna Woda"
   },
@@ -6259,7 +6259,7 @@
     "droga": 22,
     "km": 291,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Czarna Woda",
     "mjs": "Czarna Woda"
   },
@@ -6268,7 +6268,7 @@
     "droga": 22,
     "km": 292,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Czarna Woda",
     "mjs": "Czarna Woda"
   },
@@ -6277,7 +6277,7 @@
     "droga": 22,
     "km": 293,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Kaliska",
     "mjs": "Piece"
   },
@@ -6286,7 +6286,7 @@
     "droga": 22,
     "km": 294,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Kaliska",
     "mjs": "Piece"
   },
@@ -6295,7 +6295,7 @@
     "droga": 22,
     "km": 295,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Kaliska",
     "mjs": "Piece"
   },
@@ -6304,7 +6304,7 @@
     "droga": 22,
     "km": 296,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Kaliska",
     "mjs": "Piece"
   },
@@ -6313,7 +6313,7 @@
     "droga": 22,
     "km": 297,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Kaliska",
     "mjs": "Piece"
   },
@@ -6322,7 +6322,7 @@
     "droga": 22,
     "km": 298,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Kaliska",
     "mjs": "Piece"
   },
@@ -6331,7 +6331,7 @@
     "droga": 22,
     "km": 299,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Kaliska",
     "mjs": "Frank"
   },
@@ -6340,25 +6340,25 @@
     "droga": 22,
     "km": 300,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Kaliska",
-    "mjs": "D�browa"
+    "mjs": "Dąbrowa"
   },
   {
     "id": 22301,
     "droga": 22,
     "km": 301,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Kaliska",
-    "mjs": "D�browa"
+    "mjs": "Dąbrowa"
   },
   {
     "id": 22302,
     "droga": 22,
     "km": 302,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Zblewo",
     "mjs": "Bytonia"
   },
@@ -6367,7 +6367,7 @@
     "droga": 22,
     "km": 303,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Zblewo",
     "mjs": "Bytonia"
   },
@@ -6376,7 +6376,7 @@
     "droga": 22,
     "km": 304,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Zblewo",
     "mjs": "Bytonia"
   },
@@ -6385,7 +6385,7 @@
     "droga": 22,
     "km": 305,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Zblewo",
     "mjs": "Zblewo"
   },
@@ -6394,7 +6394,7 @@
     "droga": 22,
     "km": 306,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Zblewo",
     "mjs": "Zblewo"
   },
@@ -6403,7 +6403,7 @@
     "droga": 22,
     "km": 307,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Zblewo",
     "mjs": "Zblewo"
   },
@@ -6412,7 +6412,7 @@
     "droga": 22,
     "km": 308,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Zblewo",
     "mjs": "Miradowo"
   },
@@ -6421,7 +6421,7 @@
     "droga": 22,
     "km": 309,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Zblewo",
     "mjs": "Miradowo"
   },
@@ -6430,7 +6430,7 @@
     "droga": 22,
     "km": 310,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Zblewo",
     "mjs": "Miradowo"
   },
@@ -6439,7 +6439,7 @@
     "droga": 22,
     "km": 311,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Starogard Gdański",
     "mjs": "Sucumin"
   },
@@ -6448,7 +6448,7 @@
     "droga": 22,
     "km": 312,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Starogard Gdański",
     "mjs": "Sucumin"
   },
@@ -6457,7 +6457,7 @@
     "droga": 22,
     "km": 313,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Starogard Gdański",
     "mjs": "Sucumin"
   },
@@ -6466,7 +6466,7 @@
     "droga": 22,
     "km": 314,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Starogard Gdański",
     "mjs": "Rokocin"
   },
@@ -6475,7 +6475,7 @@
     "droga": 22,
     "km": 315,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Starogard Gdański",
     "mjs": "Rokocin"
   },
@@ -6484,7 +6484,7 @@
     "droga": 22,
     "km": 316,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Starogard Gdański",
     "mjs": "Rokocin"
   },
@@ -6493,7 +6493,7 @@
     "droga": 22,
     "km": 317,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Starogard Gdański",
     "mjs": "Starogard Gdański"
   },
@@ -6502,7 +6502,7 @@
     "droga": 22,
     "km": 318,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Starogard Gdański",
     "mjs": "Starogard Gdański"
   },
@@ -6511,7 +6511,7 @@
     "droga": 22,
     "km": 319,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Starogard Gdański",
     "mjs": "Starogard Gdański"
   },
@@ -6520,7 +6520,7 @@
     "droga": 22,
     "km": 320,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Starogard Gdański",
     "mjs": "Starogard Gdański"
   },
@@ -6529,7 +6529,7 @@
     "droga": 22,
     "km": 321,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Starogard Gdański",
     "mjs": "Starogard Gdański"
   },
@@ -6538,7 +6538,7 @@
     "droga": 22,
     "km": 322,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Starogard Gdański",
     "mjs": "Starogard Gdański"
   },
@@ -6547,7 +6547,7 @@
     "droga": 22,
     "km": 323,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Starogard Gdański",
     "mjs": "Starogard Gdański"
   },
@@ -6556,7 +6556,7 @@
     "droga": 22,
     "km": 324,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Starogard Gdański",
     "mjs": "Starogard Gdański"
   },
@@ -6565,7 +6565,7 @@
     "droga": 22,
     "km": 325,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Starogard Gdański",
     "mjs": "Starogard Gdański"
   },
@@ -6574,43 +6574,43 @@
     "droga": 22,
     "km": 326,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Starogard Gdański",
-    "mjs": "Szp�gawsk"
+    "mjs": "Szpęgawsk"
   },
   {
     "id": 22327,
     "droga": 22,
     "km": 327,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Starogard Gdański",
-    "mjs": "Szp�gawsk"
+    "mjs": "Szpęgawsk"
   },
   {
     "id": 22328,
     "droga": 22,
     "km": 328,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Starogard Gdański",
-    "mjs": "Szp�gawsk"
+    "mjs": "Szpęgawsk"
   },
   {
     "id": 22329,
     "droga": 22,
     "km": 329,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Starogard Gdański",
-    "mjs": "Szp�gawsk"
+    "mjs": "Szpęgawsk"
   },
   {
     "id": 22330,
     "droga": 22,
     "km": 330,
     "woj": "pomorkie",
-    "pow": "Starogard Gdański",
+    "pow": "Starogard Gdańki",
     "gm": "Starogard Gdański",
     "mjs": "Zduny"
   },
@@ -6621,7 +6621,7 @@
     "woj": "pomorkie",
     "pow": "Tczew",
     "gm": "Tczew",
-    "mjs": "Swaro�yn"
+    "mjs": "Swarożyn"
   },
   {
     "id": 22332,
@@ -6630,7 +6630,7 @@
     "woj": "pomorkie",
     "pow": "Tczew",
     "gm": "Tczew",
-    "mjs": "Swaro�yn"
+    "mjs": "Swarożyn"
   },
   {
     "id": 22333,
@@ -6639,7 +6639,7 @@
     "woj": "pomorkie",
     "pow": "Tczew",
     "gm": "Tczew",
-    "mjs": "Swaro�yn"
+    "mjs": "Swarożyn"
   },
   {
     "id": 22334,
@@ -6648,7 +6648,7 @@
     "woj": "pomorkie",
     "pow": "Tczew",
     "gm": "Tczew",
-    "mjs": "Swaro�yn"
+    "mjs": "Swarożyn"
   },
   {
     "id": 22335,
@@ -6657,7 +6657,7 @@
     "woj": "pomorkie",
     "pow": "Tczew",
     "gm": "Tczew",
-    "mjs": "Swaro�yn"
+    "mjs": "Swarożyn"
   },
   {
     "id": 22336,
@@ -6720,7 +6720,7 @@
     "woj": "pomorkie",
     "pow": "Tczew",
     "gm": "Tczew",
-    "mjs": "Ba�dowo"
+    "mjs": "Bałdowo"
   },
   {
     "id": 22343,
@@ -6729,7 +6729,7 @@
     "woj": "pomorkie",
     "pow": "Tczew",
     "gm": "Tczew",
-    "mjs": "Ba�dowo"
+    "mjs": "Bałdowo"
   },
   {
     "id": "22343,1",
@@ -6738,7 +6738,7 @@
     "woj": "pomorkie",
     "pow": "Malbork",
     "gm": "Miłoradz",
-    "mjs": "Ko�czewice"
+    "mjs": "Kończewice"
   },
   {
     "id": "22343,2",
@@ -6747,7 +6747,7 @@
     "woj": "pomorkie",
     "pow": "Malbork",
     "gm": "Miłoradz",
-    "mjs": "Ko�czewice"
+    "mjs": "Kończewice"
   },
   {
     "id": "22343,3",
@@ -6756,7 +6756,7 @@
     "woj": "pomorkie",
     "pow": "Malbork",
     "gm": "Miłoradz",
-    "mjs": "Ko�czewice"
+    "mjs": "Kończewice"
   },
   {
     "id": "22343,4",
@@ -6765,7 +6765,7 @@
     "woj": "pomorkie",
     "pow": "Malbork",
     "gm": "Miłoradz",
-    "mjs": "Ko�czewice"
+    "mjs": "Kończewice"
   },
   {
     "id": "22343,5",
@@ -6774,7 +6774,7 @@
     "woj": "pomorkie",
     "pow": "Malbork",
     "gm": "Miłoradz",
-    "mjs": "Ko�czewice"
+    "mjs": "Kończewice"
   },
   {
     "id": 22349,
@@ -6846,7 +6846,7 @@
     "woj": "pomorkie",
     "pow": "Malbork",
     "gm": "Malbork",
-    "mjs": "Ka�dowo"
+    "mjs": "Kałdowo"
   },
   {
     "id": 22357,
@@ -6855,7 +6855,7 @@
     "woj": "pomorkie",
     "pow": "Malbork",
     "gm": "Malbork",
-    "mjs": "Ka�dowo"
+    "mjs": "Kałdowo"
   },
   {
     "id": 22358,
@@ -6900,7 +6900,7 @@
     "woj": "pomorkie",
     "pow": "Malbork",
     "gm": "Stare Pole",
-    "mjs": "Kr�lewo"
+    "mjs": "Królewo"
   },
   {
     "id": 22363,
@@ -6909,7 +6909,7 @@
     "woj": "pomorkie",
     "pow": "Malbork",
     "gm": "Stare Pole",
-    "mjs": "Kr�lewo"
+    "mjs": "Królewo"
   },
   {
     "id": 22364,
@@ -6918,7 +6918,7 @@
     "woj": "pomorkie",
     "pow": "Malbork",
     "gm": "Stare Pole",
-    "mjs": "Kr�lewo"
+    "mjs": "Królewo"
   },
   {
     "id": 22365,
@@ -6927,7 +6927,7 @@
     "woj": "pomorkie",
     "pow": "Malbork",
     "gm": "Stare Pole",
-    "mjs": "Kr�lewo"
+    "mjs": "Królewo"
   },
   {
     "id": 22366,
@@ -6936,7 +6936,7 @@
     "woj": "pomorkie",
     "pow": "Malbork",
     "gm": "Stare Pole",
-    "mjs": "Kr�lewo"
+    "mjs": "Królewo"
   },
   {
     "id": 22367,
@@ -6945,7 +6945,7 @@
     "woj": "pomorkie",
     "pow": "Malbork",
     "gm": "Stare Pole",
-    "mjs": "Kr�lewo"
+    "mjs": "Królewo"
   },
   {
     "id": 22368,
@@ -6954,7 +6954,7 @@
     "woj": "pomorkie",
     "pow": "Malbork",
     "gm": "Stare Pole",
-    "mjs": "Krzy�anowo"
+    "mjs": "Krzyżanowo"
   },
   {
     "id": 22369,
@@ -6963,7 +6963,7 @@
     "woj": "pomorkie",
     "pow": "Malbork",
     "gm": "Stare Pole",
-    "mjs": "Krzy�anowo"
+    "mjs": "Krzyżanowo"
   },
   {
     "id": 22370,
@@ -6972,7 +6972,7 @@
     "woj": "pomorkie",
     "pow": "Malbork",
     "gm": "Stare Pole",
-    "mjs": "Krzy�anowo"
+    "mjs": "Krzyżanowo"
   },
   {
     "id": 22371,
@@ -6981,7 +6981,7 @@
     "woj": "pomorkie",
     "pow": "Malbork",
     "gm": "Stare Pole",
-    "mjs": "Krzy�anowo"
+    "mjs": "Krzyżanowo"
   },
   {
     "id": 22372,
@@ -6990,15 +6990,15 @@
     "woj": "pomorkie",
     "pow": "Malbork",
     "gm": "Stare Pole",
-    "mjs": "Krzy�anowo"
+    "mjs": "Krzyżanowo"
   },
   {
     "id": 22373,
     "droga": 22,
     "km": 373,
-    "woj": "warmi�ko-mazurskie",
-    "pow": "Elbl�g",
-    "gm": "Gronowo Elbl�skie",
+    "woj": "warmińko-mazurskie",
+    "pow": "Elbląg",
+    "gm": "Gronowo Elbląskie",
     "mjs": "Fiszewo"
   },
   {
@@ -7007,8 +7007,8 @@
     "km": 22,
     "woj": "zachodniopomorskie",
     "pow": "Szczecinek",
-    "gm": "Bia�y B�r",
-    "mjs": "Bia�y B�r"
+    "gm": "Biały Bór",
+    "mjs": "Biały Bór"
   },
   {
     "id": 2523,
@@ -7224,7 +7224,7 @@
     "woj": "pomorskie",
     "pow": "Człuchów",
     "gm": "Rzeczenica",
-    "mjs": "Gwie�dzin"
+    "mjs": "Gwieździn"
   },
   {
     "id": 2547,
@@ -7233,7 +7233,7 @@
     "woj": "pomorskie",
     "pow": "Człuchów",
     "gm": "Rzeczenica",
-    "mjs": "Gwie�dzin"
+    "mjs": "Gwieździn"
   },
   {
     "id": 2548,
@@ -7242,7 +7242,7 @@
     "woj": "pomorskie",
     "pow": "Człuchów",
     "gm": "Rzeczenica",
-    "mjs": "Gwie�dzin"
+    "mjs": "Gwieździn"
   },
   {
     "id": 2549,
@@ -7251,7 +7251,7 @@
     "woj": "pomorskie",
     "pow": "Człuchów",
     "gm": "Rzeczenica",
-    "mjs": "Gwie�dzin"
+    "mjs": "Gwieździn"
   },
   {
     "id": 2550,
@@ -7260,7 +7260,7 @@
     "woj": "pomorskie",
     "pow": "Człuchów",
     "gm": "Człuchów",
-    "mjs": "Sto�czno"
+    "mjs": "Stołczno"
   },
   {
     "id": 2551,
@@ -7269,7 +7269,7 @@
     "woj": "pomorskie",
     "pow": "Człuchów",
     "gm": "Człuchów",
-    "mjs": "Sto�czno"
+    "mjs": "Stołczno"
   },
   {
     "id": 2552,
@@ -7278,7 +7278,7 @@
     "woj": "pomorskie",
     "pow": "Człuchów",
     "gm": "Człuchów",
-    "mjs": "Sto�czno"
+    "mjs": "Stołczno"
   },
   {
     "id": 2553,
@@ -7287,7 +7287,7 @@
     "woj": "pomorskie",
     "pow": "Człuchów",
     "gm": "Człuchów",
-    "mjs": "Sto�czno"
+    "mjs": "Stołczno"
   },
   {
     "id": 2554,
@@ -7296,7 +7296,7 @@
     "woj": "pomorskie",
     "pow": "Człuchów",
     "gm": "Człuchów",
-    "mjs": "Sto�czno"
+    "mjs": "Stołczno"
   },
   {
     "id": 2555,
@@ -7305,7 +7305,7 @@
     "woj": "pomorskie",
     "pow": "Człuchów",
     "gm": "Człuchów",
-    "mjs": "Sto�czno"
+    "mjs": "Stołczno"
   },
   {
     "id": 2556,
@@ -7314,7 +7314,7 @@
     "woj": "pomorskie",
     "pow": "Człuchów",
     "gm": "Człuchów",
-    "mjs": "Sto�czno"
+    "mjs": "Stołczno"
   },
   {
     "id": 2557,
@@ -7323,7 +7323,7 @@
     "woj": "pomorskie",
     "pow": "Człuchów",
     "gm": "Człuchów",
-    "mjs": "Sto�czno"
+    "mjs": "Stołczno"
   },
   {
     "id": 2558,
@@ -7332,7 +7332,7 @@
     "woj": "pomorskie",
     "pow": "Człuchów",
     "gm": "Człuchów",
-    "mjs": "Ko�dowo"
+    "mjs": "Kołdowo"
   },
   {
     "id": 2559,
@@ -7341,7 +7341,7 @@
     "woj": "pomorskie",
     "pow": "Człuchów",
     "gm": "Człuchów",
-    "mjs": "Ko�dowo"
+    "mjs": "Kołdowo"
   },
   {
     "id": 2560,
@@ -7350,7 +7350,7 @@
     "woj": "pomorskie",
     "pow": "Człuchów",
     "gm": "Człuchów",
-    "mjs": "Ko�dowo"
+    "mjs": "Kołdowo"
   },
   {
     "id": 2561,
@@ -7386,7 +7386,7 @@
     "woj": "pomorskie",
     "pow": "Człuchów",
     "gm": "Człuchów",
-    "mjs": "Gl�dowo"
+    "mjs": "Ględowo"
   },
   {
     "id": 2565,
@@ -7395,7 +7395,7 @@
     "woj": "pomorskie",
     "pow": "Człuchów",
     "gm": "Człuchów",
-    "mjs": "Gl�dowo"
+    "mjs": "Ględowo"
   },
   {
     "id": 2566,
@@ -7404,7 +7404,7 @@
     "woj": "pomorskie",
     "pow": "Człuchów",
     "gm": "Człuchów",
-    "mjs": "Gl�dowo"
+    "mjs": "Ględowo"
   },
   {
     "id": 2567,
@@ -7413,7 +7413,7 @@
     "woj": "pomorskie",
     "pow": "Człuchów",
     "gm": "Człuchów",
-    "mjs": "Gl�dowo"
+    "mjs": "Ględowo"
   },
   {
     "id": 2568,
@@ -7422,7 +7422,7 @@
     "woj": "pomorskie",
     "pow": "Człuchów",
     "gm": "Człuchów",
-    "mjs": "J�czniki Ma�e"
+    "mjs": "Jęczniki Małe"
   },
   {
     "id": 2569,
@@ -7431,7 +7431,7 @@
     "woj": "pomorskie",
     "pow": "Człuchów",
     "gm": "Człuchów",
-    "mjs": "J�czniki Ma�e"
+    "mjs": "Jęczniki Małe"
   },
   {
     "id": 2570,
@@ -7440,7 +7440,7 @@
     "woj": "pomorskie",
     "pow": "Człuchów",
     "gm": "Człuchów",
-    "mjs": "J�czniki Ma�e"
+    "mjs": "Jęczniki Małe"
   },
   {
     "id": 2571,
@@ -7474,8 +7474,8 @@
     "droga": 25,
     "km": 74,
     "woj": "kujawsko-pomorskie",
-    "pow": "S�p�lno Kraje�skie",
-    "gm": "Kamie� Kraje�ski",
+    "pow": "Sępólno Krajeńskie",
+    "gm": "Kamień Krajeński",
     "mjs": "Zamarte"
   },
   {
@@ -7611,7 +7611,7 @@
     "woj": "pomorskie",
     "pow": "Malbork",
     "gm": "Nowy Staw",
-    "mjs": "Chleb�wka"
+    "mjs": "Chlebówka"
   },
   {
     "id": "559,7",
@@ -7620,7 +7620,7 @@
     "woj": "pomorskie",
     "pow": "Malbork",
     "gm": "Nowy Staw",
-    "mjs": "Chleb�wka"
+    "mjs": "Chlebówka"
   },
   {
     "id": "559,8",
@@ -7629,7 +7629,7 @@
     "woj": "pomorskie",
     "pow": "Malbork",
     "gm": "Nowy Staw",
-    "mjs": "Chleb�wka"
+    "mjs": "Chlebówka"
   },
   {
     "id": "559,9",
@@ -7638,7 +7638,7 @@
     "woj": "pomorskie",
     "pow": "Malbork",
     "gm": "Nowy Staw",
-    "mjs": "Chleb�wka"
+    "mjs": "Chlebówka"
   },
   {
     "id": 5510,
@@ -7647,7 +7647,7 @@
     "woj": "pomorskie",
     "pow": "Malbork",
     "gm": "Nowy Staw",
-    "mjs": "Chleb�wka"
+    "mjs": "Chlebówka"
   },
   {
     "id": 5511,
@@ -7656,7 +7656,7 @@
     "woj": "pomorskie",
     "pow": "Malbork",
     "gm": "Nowy Staw",
-    "mjs": "Chleb�wka"
+    "mjs": "Chlebówka"
   },
   {
     "id": 5512,
@@ -7665,7 +7665,7 @@
     "woj": "pomorskie",
     "pow": "Malbork",
     "gm": "Nowy Staw",
-    "mjs": "Chleb�wka"
+    "mjs": "Chlebówka"
   },
   {
     "id": 5513,
@@ -7674,7 +7674,7 @@
     "woj": "pomorskie",
     "pow": "Malbork",
     "gm": "Nowy Staw",
-    "mjs": "D�bina"
+    "mjs": "Dębina"
   },
   {
     "id": 5514,
@@ -7683,7 +7683,7 @@
     "woj": "pomorskie",
     "pow": "Malbork",
     "gm": "Nowy Staw",
-    "mjs": "D�bina"
+    "mjs": "Dębina"
   },
   {
     "id": 5515,
@@ -7692,7 +7692,7 @@
     "woj": "pomorskie",
     "pow": "Malbork",
     "gm": "Nowy Staw",
-    "mjs": "Mart�g"
+    "mjs": "Martąg"
   },
   {
     "id": 5516,
@@ -7701,7 +7701,7 @@
     "woj": "pomorskie",
     "pow": "Malbork",
     "gm": "Nowy Staw",
-    "mjs": "Mart�g"
+    "mjs": "Martąg"
   },
   {
     "id": 5517,
@@ -7755,7 +7755,7 @@
     "woj": "pomorskie",
     "pow": "Malbork",
     "gm": "Malbork",
-    "mjs": "Ka�dowo"
+    "mjs": "Kałdowo"
   },
   {
     "id": 5523,
@@ -7764,7 +7764,7 @@
     "woj": "pomorskie",
     "pow": "Malbork",
     "gm": "Malbork",
-    "mjs": "Ka�dowo"
+    "mjs": "Kałdowo"
   },
   {
     "id": 5524,
@@ -7926,7 +7926,7 @@
     "woj": "pomorskie",
     "pow": "Sztum",
     "gm": "Sztum",
-    "mjs": "Koniecwa�d"
+    "mjs": "Koniecwałd"
   },
   {
     "id": 5533,
@@ -7935,7 +7935,7 @@
     "woj": "pomorskie",
     "pow": "Sztum",
     "gm": "Sztum",
-    "mjs": "Koniecwa�d"
+    "mjs": "Koniecwałd"
   },
   {
     "id": 5534,
@@ -7944,7 +7944,7 @@
     "woj": "pomorskie",
     "pow": "Sztum",
     "gm": "Sztum",
-    "mjs": "Koniecwa�d"
+    "mjs": "Koniecwałd"
   },
   {
     "id": 5535,
@@ -8034,7 +8034,7 @@
     "woj": "pomorskie",
     "pow": "Sztum",
     "gm": "Sztum",
-    "mjs": "Nowa Wie�"
+    "mjs": "Nowa Wieś"
   },
   {
     "id": 5545,
@@ -8043,7 +8043,7 @@
     "woj": "pomorskie",
     "pow": "Sztum",
     "gm": "Sztum",
-    "mjs": "Nowa Wie�"
+    "mjs": "Nowa Wieś"
   },
   {
     "id": 5546,
@@ -8061,7 +8061,7 @@
     "woj": "pomorskie",
     "pow": "Kwidzyn",
     "gm": "Ryjewo",
-    "mjs": "M�tki"
+    "mjs": "Mątki"
   },
   {
     "id": 5548,
@@ -8070,7 +8070,7 @@
     "woj": "pomorskie",
     "pow": "Kwidzyn",
     "gm": "Ryjewo",
-    "mjs": "M�tki"
+    "mjs": "Mątki"
   },
   {
     "id": 5549,
@@ -8079,7 +8079,7 @@
     "woj": "pomorskie",
     "pow": "Kwidzyn",
     "gm": "Ryjewo",
-    "mjs": "M�tki"
+    "mjs": "Mątki"
   },
   {
     "id": 5550,
@@ -8232,7 +8232,7 @@
     "woj": "pomorskie",
     "pow": "Kwidzyn",
     "gm": "Gardeja",
-    "mjs": "Mi�osna"
+    "mjs": "Miłosna"
   },
   {
     "id": 5567,
@@ -8241,7 +8241,7 @@
     "woj": "pomorskie",
     "pow": "Kwidzyn",
     "gm": "Gardeja",
-    "mjs": "B�dki"
+    "mjs": "Bądki"
   },
   {
     "id": 5568,
@@ -8250,7 +8250,7 @@
     "woj": "pomorskie",
     "pow": "Kwidzyn",
     "gm": "Gardeja",
-    "mjs": "Ot��wko"
+    "mjs": "Otłówko"
   },
   {
     "id": 5569,
@@ -8259,7 +8259,7 @@
     "woj": "pomorskie",
     "pow": "Kwidzyn",
     "gm": "Gardeja",
-    "mjs": "Ot��wko"
+    "mjs": "Otłówko"
   },
   {
     "id": 5570,
@@ -8268,7 +8268,7 @@
     "woj": "pomorskie",
     "pow": "Kwidzyn",
     "gm": "Gardeja",
-    "mjs": "Ot��wko"
+    "mjs": "Otłówko"
   },
   {
     "id": 5571,
@@ -8277,7 +8277,7 @@
     "woj": "pomorskie",
     "pow": "Kwidzyn",
     "gm": "Gardeja",
-    "mjs": "Ot�owiec"
+    "mjs": "Otłowiec"
   },
   {
     "id": 5572,
@@ -8286,7 +8286,7 @@
     "woj": "pomorskie",
     "pow": "Kwidzyn",
     "gm": "Gardeja",
-    "mjs": "Ot�owiec"
+    "mjs": "Otłowiec"
   },
   {
     "id": 5573,
@@ -8295,7 +8295,7 @@
     "woj": "pomorskie",
     "pow": "Kwidzyn",
     "gm": "Gardeja",
-    "mjs": "Ot�owiec"
+    "mjs": "Otłowiec"
   },
   {
     "id": 5574,
@@ -8365,9 +8365,9 @@
     "droga": 55,
     "km": 81,
     "woj": "kujawko-pomorskie",
-    "pow": "Grudzi�dz",
-    "gm": "Rog�no",
-    "mjs": "Zaro�le"
+    "pow": "Grudziądz",
+    "gm": "Rogóźno",
+    "mjs": "Zarośle"
   },
   {
     "id": 901,
@@ -8376,7 +8376,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Gniew",
-    "mjs": "Jele�"
+    "mjs": "Jeleń"
   },
   {
     "id": 902,
@@ -8385,7 +8385,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Gniew",
-    "mjs": "Jele�"
+    "mjs": "Jeleń"
   },
   {
     "id": 903,
@@ -8394,7 +8394,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Gniew",
-    "mjs": "Ja�wiska Ma�e"
+    "mjs": "Jaźwiska Małe"
   },
   {
     "id": 904,
@@ -8403,7 +8403,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Gniew",
-    "mjs": "Ja�wiska Ma�e"
+    "mjs": "Jaźwiska Małe"
   },
   {
     "id": 905,
@@ -8412,7 +8412,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Gniew",
-    "mjs": "Ja�wiska Ma�e"
+    "mjs": "Jaźwiska Małe"
   },
   {
     "id": 906,
@@ -8466,7 +8466,7 @@
     "woj": "pomorskie",
     "pow": "Kwidzyn",
     "gm": "Kwidzyn",
-    "mjs": "Mareza G�rna"
+    "mjs": "Mareza Górna"
   },
   {
     "id": 9012,
@@ -8475,7 +8475,7 @@
     "woj": "pomorskie",
     "pow": "Kwidzyn",
     "gm": "Kwidzyn",
-    "mjs": "Mareza G�rna"
+    "mjs": "Mareza Górna"
   },
   {
     "id": 9013,
@@ -8726,8 +8726,8 @@
     "km": 25,
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
-    "gm": "Pszczóki",
-    "mjs": "R�yny"
+    "gm": "Pszczółki",
+    "mjs": "Różyny"
   },
   {
     "id": 9126,
@@ -8735,8 +8735,8 @@
     "km": 26,
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
-    "gm": "Pszczóki",
-    "mjs": "R�yny"
+    "gm": "Pszczółki",
+    "mjs": "Różyny"
   },
   {
     "id": 9127,
@@ -8744,8 +8744,8 @@
     "km": 27,
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
-    "gm": "Pszczóki",
-    "mjs": "R�yny"
+    "gm": "Pszczółki",
+    "mjs": "Różyny"
   },
   {
     "id": 9128,
@@ -8753,7 +8753,7 @@
     "km": 28,
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
-    "gm": "Pszczóki",
+    "gm": "Pszczółki",
     "mjs": "Skowarcz"
   },
   {
@@ -8762,7 +8762,7 @@
     "km": 29,
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
-    "gm": "Pszczóki",
+    "gm": "Pszczółki",
     "mjs": "Skowarcz"
   },
   {
@@ -8771,8 +8771,8 @@
     "km": 30,
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
-    "gm": "Pszczóki",
-    "mjs": "Pszczóki"
+    "gm": "Pszczółki",
+    "mjs": "Pszczółki"
   },
   {
     "id": 9131,
@@ -8780,8 +8780,8 @@
     "km": 31,
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
-    "gm": "Pszczóki",
-    "mjs": "Pszczóki"
+    "gm": "Pszczółki",
+    "mjs": "Pszczółki"
   },
   {
     "id": 9132,
@@ -8789,8 +8789,8 @@
     "km": 32,
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
-    "gm": "Pszczóki",
-    "mjs": "Pszczóki"
+    "gm": "Pszczółki",
+    "mjs": "Pszczółki"
   },
   {
     "id": 9133,
@@ -8798,7 +8798,7 @@
     "km": 33,
     "woj": "pomorskie",
     "pow": "Pruszcz Gdański",
-    "gm": "Pszczóki",
+    "gm": "Pszczółki",
     "mjs": "Kolnik"
   },
   {
@@ -8808,7 +8808,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Tczew",
-    "mjs": "Mi�ob�dz"
+    "mjs": "Miłobądz"
   },
   {
     "id": 9135,
@@ -8817,7 +8817,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Tczew",
-    "mjs": "Mi�ob�dz"
+    "mjs": "Miłobądz"
   },
   {
     "id": 9136,
@@ -8826,7 +8826,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Tczew",
-    "mjs": "Mi�ob�dz"
+    "mjs": "Miłobądz"
   },
   {
     "id": 9137,
@@ -8835,7 +8835,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Tczew",
-    "mjs": "Zaj�czkowo"
+    "mjs": "Zajączkowo"
   },
   {
     "id": 9138,
@@ -8844,7 +8844,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Tczew",
-    "mjs": "Zaj�czkowo"
+    "mjs": "Zajączkowo"
   },
   {
     "id": 9139,
@@ -9006,7 +9006,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Pelplin",
-    "mjs": "Gr�blin"
+    "mjs": "Gręblin"
   },
   {
     "id": 9157,
@@ -9015,7 +9015,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Pelplin",
-    "mjs": "Gr�blin"
+    "mjs": "Gręblin"
   },
   {
     "id": 9158,
@@ -9024,7 +9024,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Pelplin",
-    "mjs": "Gr�blin"
+    "mjs": "Gręblin"
   },
   {
     "id": 9159,
@@ -9204,7 +9204,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Gniew",
-    "mjs": "Jele�"
+    "mjs": "Jeleń"
   },
   {
     "id": 9179,
@@ -9213,7 +9213,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Gniew",
-    "mjs": "Jele�"
+    "mjs": "Jeleń"
   },
   {
     "id": 9180,
@@ -9222,7 +9222,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Gniew",
-    "mjs": "Jele�"
+    "mjs": "Jeleń"
   },
   {
     "id": 9181,
@@ -9231,7 +9231,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Gniew",
-    "mjs": "Jele�"
+    "mjs": "Jeleń"
   },
   {
     "id": 9182,
@@ -9240,7 +9240,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Gniew",
-    "mjs": "Jele�"
+    "mjs": "Jeleń"
   },
   {
     "id": 9183,
@@ -9249,7 +9249,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Gniew",
-    "mjs": "Jele�"
+    "mjs": "Jeleń"
   },
   {
     "id": 9184,
@@ -9323,5 +9323,4 @@
     "gm": "Nowe",
     "mjs": "Bochlin"
   }
-]
-;
+];
