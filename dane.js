@@ -1770,7 +1770,7 @@
     "woj": "pomorskie",
     "pow": "Lębork",
     "gm": "Nowa Wieś Lęborska",
-    "mjs": "Mosty"
+    "mjs": "Jamy"
   },
   {
     "id": 6267,
