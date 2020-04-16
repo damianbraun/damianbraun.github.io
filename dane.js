@@ -1743,7 +1743,7 @@
     "woj": "pomorskie",
     "pow": "Lębork",
     "gm": "Nowa Wieś Lęborska",
-    "mjs": "Pogorzałe"
+    "mjs": "Mosty"
   },
   {
     "id": 6264,
@@ -1752,7 +1752,7 @@
     "woj": "pomorskie",
     "pow": "Lębork",
     "gm": "Nowa Wieś Lęborska",
-    "mjs": "Pogorzałe"
+    "mjs": "Mosty"
   },
   {
     "id": 6265,
@@ -1761,7 +1761,7 @@
     "woj": "pomorskie",
     "pow": "Lębork",
     "gm": "Nowa Wieś Lęborska",
-    "mjs": "Pogorzałe"
+    "mjs": "Jamy"
   },
   {
     "id": 6266,
@@ -1770,7 +1770,7 @@
     "woj": "pomorskie",
     "pow": "Lębork",
     "gm": "Nowa Wieś Lęborska",
-    "mjs": "Pogorzałe"
+    "mjs": "Mosty"
   },
   {
     "id": 6267,
