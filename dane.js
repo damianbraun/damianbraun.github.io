@@ -3246,7 +3246,7 @@
     "woj": "pomorskie",
     "pow": "Nowy Dwór Gdański",
     "gm": "Nowy Dwór Gdański",
-    "mjs": "Solnica"
+    "mjs": "Rakowe Pole"
   },
   {
     "id": "S745",
