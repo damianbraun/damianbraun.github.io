@@ -510,7 +510,7 @@
     "woj": "pomorskie",
     "pow": "Starogard Gdański",
     "gm": "Smętowo Graniczne",
-    "mjs": "Kornatka"
+    "mjs": "Kopytkowo"
   },
   {
     "id": "A157",
