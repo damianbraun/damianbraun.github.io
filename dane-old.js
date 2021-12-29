@@ -9222,7 +9222,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Gniew",
-    "mjs": "Jeleń"
+    "mjs": "Rakowiec"
   },
   {
     "id": 9181,
@@ -9231,7 +9231,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Gniew",
-    "mjs": "Jeleń"
+    "mjs": "Rakowiec"
   },
   {
     "id": 9182,
@@ -9240,7 +9240,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Gniew",
-    "mjs": "Jeleń"
+    "mjs": "Rakowiec"
   },
   {
     "id": 9183,
@@ -9249,7 +9249,7 @@
     "woj": "pomorskie",
     "pow": "Tczew",
     "gm": "Gniew",
-    "mjs": "Jeleń"
+    "mjs": "Kolonia Ostrowicka"
   },
   {
     "id": 9184,
