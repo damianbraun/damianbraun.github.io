@@ -9558,8 +9558,8 @@
    "mjs": "Bochlin"
  },
  {
-   "id": "S6e1",
-   "droga": "S6e",
+   "id": "S6E1",
+   "droga": "S6E",
    "km": "1",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9567,8 +9567,8 @@
    "mjs": "Bożepole Wielkie"
  },
  {
-   "id": "S6e2",
-   "droga": "S6e",
+   "id": "S6E2",
+   "droga": "S6E",
    "km": "2",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9576,8 +9576,8 @@
    "mjs": "Bożepole Wielkie"
  },
  {
-   "id": "S6e3",
-   "droga": "S6e",
+   "id": "S6E3",
+   "droga": "S6E",
    "km": "3",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9585,8 +9585,8 @@
    "mjs": "Bożepole Małe"
  },
  {
-   "id": "S6e4",
-   "droga": "S6e",
+   "id": "S6E4",
+   "droga": "S6E",
    "km": "4",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9594,8 +9594,8 @@
    "mjs": "Bożepole Małe"
  },
  {
-   "id": "S6e5",
-   "droga": "S6e",
+   "id": "S6E5",
+   "droga": "S6E",
    "km": "5",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9603,8 +9603,8 @@
    "mjs": "Bożepole Małe"
  },
  {
-   "id": "S6e6",
-   "droga": "S6e",
+   "id": "S6E6",
+   "droga": "S6E",
    "km": "6",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9612,8 +9612,8 @@
    "mjs": "Strzebielino - Osiedle"
  },
  {
-   "id": "S6e7",
-   "droga": "S6e",
+   "id": "S6E7",
+   "droga": "S6E",
    "km": "7",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9621,8 +9621,8 @@
    "mjs": "Strzebielino - Osiedle"
  },
  {
-   "id": "S6e7,1",
-   "droga": "S6e",
+   "id": "S6E7,1",
+   "droga": "S6E",
    "km": "7,1",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9630,8 +9630,8 @@
    "mjs": "Strzebielino - Osiedle"
  },
  {
-   "id": "S6e7,2",
-   "droga": "S6e",
+   "id": "S6E7,2",
+   "droga": "S6E",
    "km": "7,2",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9639,8 +9639,8 @@
    "mjs": "Strzebielino - Osiedle"
  },
  {
-   "id": "S6e7,3",
-   "droga": "S6e",
+   "id": "S6E7,3",
+   "droga": "S6E",
    "km": "7,3",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9648,8 +9648,8 @@
    "mjs": "Strzebielino - Osiedle"
  },
  {
-   "id": "S6e7,4",
-   "droga": "S6e",
+   "id": "S6E7,4",
+   "droga": "S6E",
    "km": "7,4",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9657,8 +9657,8 @@
    "mjs": "Strzebielino - Osiedle"
  },
  {
-   "id": "S6e7,5",
-   "droga": "S6e",
+   "id": "S6E7,5",
+   "droga": "S6E",
    "km": "7,5",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9666,8 +9666,8 @@
    "mjs": "Strzebielino - Osiedle"
  },
  {
-   "id": "S6e7,6",
-   "droga": "S6e",
+   "id": "S6E7,6",
+   "droga": "S6E",
    "km": "7,6",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9675,8 +9675,8 @@
    "mjs": "Strzebielino - Osiedle"
  },
  {
-   "id": "S6e7,7",
-   "droga": "S6e",
+   "id": "S6E7,7",
+   "droga": "S6E",
    "km": "7,7",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9684,8 +9684,8 @@
    "mjs": "Strzebielino - Osiedle"
  },
  {
-   "id": "S6e7,8",
-   "droga": "S6e",
+   "id": "S6E7,8",
+   "droga": "S6E",
    "km": "7,8",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9693,8 +9693,8 @@
    "mjs": "Luzino"
  },
  {
-   "id": "S6e7,9",
-   "droga": "S6e",
+   "id": "S6E7,9",
+   "droga": "S6E",
    "km": "7,9",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9702,8 +9702,8 @@
    "mjs": "Luzino"
  },
  {
-   "id": "S6e9",
-   "droga": "S6e",
+   "id": "S6E9",
+   "droga": "S6E",
    "km": "9",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9711,8 +9711,8 @@
    "mjs": "Luzino"
  },
  {
-   "id": "S6e9",
-   "droga": "S6e",
+   "id": "S6E9",
+   "droga": "S6E",
    "km": "9",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9720,8 +9720,8 @@
    "mjs": "Luzino"
  },
  {
-   "id": "S6e10",
-   "droga": "S6e",
+   "id": "S6E10",
+   "droga": "S6E",
    "km": "10",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9729,8 +9729,8 @@
    "mjs": "Luzino"
  },
  {
-   "id": "S6e11",
-   "droga": "S6e",
+   "id": "S6E11",
+   "droga": "S6E",
    "km": "11",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9738,8 +9738,8 @@
    "mjs": "Luzino"
  },
  {
-   "id": "S6e12",
-   "droga": "S6e",
+   "id": "S6E12",
+   "droga": "S6E",
    "km": "12",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9747,8 +9747,8 @@
    "mjs": "Sychowo"
  },
  {
-   "id": "S6e13",
-   "droga": "S6e",
+   "id": "S6E13",
+   "droga": "S6E",
    "km": "13",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9756,8 +9756,8 @@
    "mjs": "Sychowo"
  },
  {
-   "id": "S6e14",
-   "droga": "S6e",
+   "id": "S6E14",
+   "droga": "S6E",
    "km": "14",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9765,8 +9765,8 @@
    "mjs": "Milwino"
  },
  {
-   "id": "S6e15",
-   "droga": "S6e",
+   "id": "S6E15",
+   "droga": "S6E",
    "km": "15",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9774,8 +9774,8 @@
    "mjs": "Milwino"
  },
  {
-   "id": "S6e15,1",
-   "droga": "S6e",
+   "id": "S6E15,1",
+   "droga": "S6E",
    "km": "15,1",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9783,8 +9783,8 @@
    "mjs": "Milwino"
  },
  {
-   "id": "S6e15,2",
-   "droga": "S6e",
+   "id": "S6E15,2",
+   "droga": "S6E",
    "km": "15,2",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9792,8 +9792,8 @@
    "mjs": "Milwino"
  },
  {
-   "id": "S6e15,3",
-   "droga": "S6e",
+   "id": "S6E15,3",
+   "droga": "S6E",
    "km": "15,3",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9801,8 +9801,8 @@
    "mjs": "Milwino"
  },
  {
-   "id": "S6e15,4",
-   "droga": "S6e",
+   "id": "S6E15,4",
+   "droga": "S6E",
    "km": "15,4",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9810,8 +9810,8 @@
    "mjs": "Milwino"
  },
  {
-   "id": "S6e15,5",
-   "droga": "S6e",
+   "id": "S6E15,5",
+   "droga": "S6E",
    "km": "15,5",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9819,8 +9819,8 @@
    "mjs": "Milwino"
  },
  {
-   "id": "S6e15,6",
-   "droga": "S6e",
+   "id": "S6E15,6",
+   "droga": "S6E",
    "km": "15,6",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9828,8 +9828,8 @@
    "mjs": "Częstkowo"
  },
  {
-   "id": "S6e15,7",
-   "droga": "S6e",
+   "id": "S6E15,7",
+   "droga": "S6E",
    "km": "15,7",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9837,8 +9837,8 @@
    "mjs": "Częstkowo"
  },
  {
-   "id": "S6e15,8",
-   "droga": "S6e",
+   "id": "S6E15,8",
+   "droga": "S6E",
    "km": "15,8",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9846,8 +9846,8 @@
    "mjs": "Częstkowo"
  },
  {
-   "id": "S6e15,9",
-   "droga": "S6e",
+   "id": "S6E15,9",
+   "droga": "S6E",
    "km": "15,9",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9855,8 +9855,8 @@
    "mjs": "Częstkowo"
  },
  {
-   "id": "S6e16",
-   "droga": "S6e",
+   "id": "S6E16",
+   "droga": "S6E",
    "km": "16",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9864,8 +9864,8 @@
    "mjs": "Częstkowo"
  },
  {
-   "id": "S6e17",
-   "droga": "S6e",
+   "id": "S6E17",
+   "droga": "S6E",
    "km": "17",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9873,8 +9873,8 @@
    "mjs": "Częstkowo"
  },
  {
-   "id": "S6e18",
-   "droga": "S6e",
+   "id": "S6E18",
+   "droga": "S6E",
    "km": "18",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9882,8 +9882,8 @@
    "mjs": "Głazica"
  },
  {
-   "id": "S6e19",
-   "droga": "S6e",
+   "id": "S6E19",
+   "droga": "S6E",
    "km": "19",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9891,8 +9891,8 @@
    "mjs": "Głazica"
  },
  {
-   "id": "S6e20",
-   "droga": "S6e",
+   "id": "S6E20",
+   "droga": "S6E",
    "km": "20",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9900,8 +9900,8 @@
    "mjs": "Szemud"
  },
  {
-   "id": "S6e21",
-   "droga": "S6e",
+   "id": "S6E21",
+   "droga": "S6E",
    "km": "21",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9909,8 +9909,8 @@
    "mjs": "Szemud"
  },
  {
-   "id": "S6e22",
-   "droga": "S6e",
+   "id": "S6E22",
+   "droga": "S6E",
    "km": "22",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9918,8 +9918,8 @@
    "mjs": "Szemud"
  },
  {
-   "id": "S6e23",
-   "droga": "S6e",
+   "id": "S6E23",
+   "droga": "S6E",
    "km": "23",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9927,8 +9927,8 @@
    "mjs": "Szemud"
  },
  {
-   "id": "S6e24",
-   "droga": "S6e",
+   "id": "S6E24",
+   "droga": "S6E",
    "km": "24",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9936,8 +9936,8 @@
    "mjs": "Kamień"
  },
  {
-   "id": "S6e25",
-   "droga": "S6e",
+   "id": "S6E25",
+   "droga": "S6E",
    "km": "25",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9945,8 +9945,8 @@
    "mjs": "Kamień"
  },
  {
-   "id": "S6e26",
-   "droga": "S6e",
+   "id": "S6E26",
+   "droga": "S6E",
    "km": "26",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9954,8 +9954,8 @@
    "mjs": "Kamień"
  },
  {
-   "id": "S6e27",
-   "droga": "S6e",
+   "id": "S6E27",
+   "droga": "S6E",
    "km": "27",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9963,8 +9963,8 @@
    "mjs": "Kolewczkowo"
  },
  {
-   "id": "S6e28",
-   "droga": "S6e",
+   "id": "S6E28",
+   "droga": "S6E",
    "km": "28",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9972,8 +9972,8 @@
    "mjs": "Kolewczkowo"
  },
  {
-   "id": "S6e29",
-   "droga": "S6e",
+   "id": "S6E29",
+   "droga": "S6E",
    "km": "29",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9981,8 +9981,8 @@
    "mjs": "Kolewczkowo"
  },
  {
-   "id": "S6e30",
-   "droga": "S6e",
+   "id": "S6E30",
+   "droga": "S6E",
    "km": "30",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9990,8 +9990,8 @@
    "mjs": "Bojano"
  },
  {
-   "id": "S6e31",
-   "droga": "S6e",
+   "id": "S6E31",
+   "droga": "S6E",
    "km": "31",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -9999,8 +9999,8 @@
    "mjs": "Bojano"
  },
  {
-   "id": "S6e32",
-   "droga": "S6e",
+   "id": "S6E32",
+   "droga": "S6E",
    "km": "32",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -10008,8 +10008,8 @@
    "mjs": "Bojano"
  },
  {
-   "id": "S6e33",
-   "droga": "S6e",
+   "id": "S6E33",
+   "droga": "S6E",
    "km": "33",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -10017,8 +10017,8 @@
    "mjs": "Bojano"
  },
  {
-   "id": "S6e34",
-   "droga": "S6e",
+   "id": "S6E34",
+   "droga": "S6E",
    "km": "34",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -10026,8 +10026,8 @@
    "mjs": "Bojano"
  },
  {
-   "id": "S6e34,1",
-   "droga": "S6e",
+   "id": "S6E34,1",
+   "droga": "S6E",
    "km": "34,1",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -10035,8 +10035,8 @@
    "mjs": "Bojano"
  },
  {
-   "id": "S6e34,2",
-   "droga": "S6e",
+   "id": "S6E34,2",
+   "droga": "S6E",
    "km": "34,2",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -10044,8 +10044,8 @@
    "mjs": "Bojano"
  },
  {
-   "id": "S6e34,3",
-   "droga": "S6e",
+   "id": "S6E34,3",
+   "droga": "S6E",
    "km": "34,3",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -10053,8 +10053,8 @@
    "mjs": "Bojano"
  },
  {
-   "id": "S6e34,4",
-   "droga": "S6e",
+   "id": "S6E34,4",
+   "droga": "S6E",
    "km": "34,4",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -10062,8 +10062,8 @@
    "mjs": "Bojano"
  },
  {
-   "id": "S6e34,5",
-   "droga": "S6e",
+   "id": "S6E34,5",
+   "droga": "S6E",
    "km": "34,5",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -10071,8 +10071,8 @@
    "mjs": "Bojano"
  },
  {
-   "id": "S6e34,6",
-   "droga": "S6e",
+   "id": "S6E34,6",
+   "droga": "S6E",
    "km": "34,6",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -10080,8 +10080,8 @@
    "mjs": "Bojano"
  },
  {
-   "id": "S6e34,7",
-   "droga": "S6e",
+   "id": "S6E34,7",
+   "droga": "S6E",
    "km": "34,7",
    "woj": "pomorskie",
    "pow": "wejherowski",
@@ -10089,8 +10089,8 @@
    "mjs": "Bojano"
  },
  {
-   "id": "S6e34,8",
-   "droga": "S6e",
+   "id": "S6E34,8",
+   "droga": "S6E",
    "km": "34,8",
    "woj": "pomorskie",
    "pow": "Gdynia",
@@ -10098,8 +10098,8 @@
    "mjs": "Gdynia"
  },
  {
-   "id": "S6e34,9",
-   "droga": "S6e",
+   "id": "S6E34,9",
+   "droga": "S6E",
    "km": "34,9",
    "woj": "pomorskie",
    "pow": "Gdynia",
@@ -10107,8 +10107,8 @@
    "mjs": "Gdynia"
  },
  {
-   "id": "S6e35",
-   "droga": "S6e",
+   "id": "S6E35",
+   "droga": "S6E",
    "km": "35",
    "woj": "pomorskie",
    "pow": "Gdynia",
@@ -10116,8 +10116,8 @@
    "mjs": "Gdynia"
  },
  {
-   "id": "S6e36",
-   "droga": "S6e",
+   "id": "S6E36",
+   "droga": "S6E",
    "km": "36",
    "woj": "pomorskie",
    "pow": "Gdynia",
@@ -10125,8 +10125,8 @@
    "mjs": "Gdynia"
  },
  {
-   "id": "S6e37",
-   "droga": "S6e",
+   "id": "S6E37",
+   "droga": "S6E",
    "km": "37",
    "woj": "pomorskie",
    "pow": "Gdynia",
@@ -10134,8 +10134,8 @@
    "mjs": "Gdynia"
  },
  {
-   "id": "S6e38",
-   "droga": "S6e",
+   "id": "S6E38",
+   "droga": "S6E",
    "km": "38",
    "woj": "pomorskie",
    "pow": "Gdynia",
@@ -10143,8 +10143,8 @@
    "mjs": "Gdynia"
  },
  {
-   "id": "S6e39",
-   "droga": "S6e",
+   "id": "S6E39",
+   "droga": "S6E",
    "km": "39",
    "woj": "pomorskie",
    "pow": "Gdynia",
@@ -10152,8 +10152,8 @@
    "mjs": "Gdynia"
  },
  {
-   "id": "S6e40",
-   "droga": "S6e",
+   "id": "S6E40",
+   "droga": "S6E",
    "km": "40",
    "woj": "pomorskie",
    "pow": "Gdynia",
